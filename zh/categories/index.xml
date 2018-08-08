@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/zh/categories/</link>
+    <link>https://levid-gc.github.io/hugoDocs/zh/categories/</link>
     <description>Recent content in Categories on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content Management</title>
-      <link>levid-gc.github.io/hugoDocs/zh/categories/content-management/</link>
+      <link>https://levid-gc.github.io/hugoDocs/zh/categories/content-management/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/zh/categories/content-management/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/zh/categories/content-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamentals</title>
-      <link>levid-gc.github.io/hugoDocs/zh/categories/fundamentals/</link>
+      <link>https://levid-gc.github.io/hugoDocs/zh/categories/fundamentals/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/zh/categories/fundamentals/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/zh/categories/fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hosting and Deployment</title>
-      <link>levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/</link>
+      <link>https://levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>levid-gc.github.io/hugoDocs/zh/categories/templates/</link>
+      <link>https://levid-gc.github.io/hugoDocs/zh/categories/templates/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/zh/categories/templates/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/zh/categories/templates/</guid>
       <description></description>
     </item>
     

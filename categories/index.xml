@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/categories/</link>
+    <link>https://levid-gc.github.io/hugoDocs/categories/</link>
     <description>Recent content in Categories on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Hugo</title>
-      <link>levid-gc.github.io/hugoDocs/categories/about-hugo/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/about-hugo/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/about-hugo/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/about-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asset Management</title>
-      <link>levid-gc.github.io/hugoDocs/categories/asset-management/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/asset-management/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/asset-management/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/asset-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>levid-gc.github.io/hugoDocs/categories/blog/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/blog/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/blog/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Management</title>
-      <link>levid-gc.github.io/hugoDocs/categories/content-management/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/content-management/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/content-management/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/content-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribute</title>
-      <link>levid-gc.github.io/hugoDocs/categories/contribute/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/contribute/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/contribute/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/contribute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developer Tools</title>
-      <link>levid-gc.github.io/hugoDocs/categories/developer-tools/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/developer-tools/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/developer-tools/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/developer-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functions</title>
-      <link>levid-gc.github.io/hugoDocs/categories/functions/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/functions/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/functions/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/functions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamentals</title>
-      <link>levid-gc.github.io/hugoDocs/categories/fundamentals/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/fundamentals/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/fundamentals/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>levid-gc.github.io/hugoDocs/categories/getting-started/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/getting-started/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/getting-started/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/getting-started/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hosting and Deployment</title>
-      <link>levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maintenance</title>
-      <link>levid-gc.github.io/hugoDocs/categories/maintenance/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/maintenance/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/maintenance/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/maintenance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Organization</title>
-      <link>levid-gc.github.io/hugoDocs/categories/project-organization/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/project-organization/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/project-organization/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/project-organization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Releases</title>
-      <link>levid-gc.github.io/hugoDocs/categories/releases/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/releases/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/releases/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>levid-gc.github.io/hugoDocs/categories/templates/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/templates/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/templates/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>levid-gc.github.io/hugoDocs/categories/themes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/themes/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/themes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Troubleshooting</title>
-      <link>levid-gc.github.io/hugoDocs/categories/troubleshooting/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/troubleshooting/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/troubleshooting/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/troubleshooting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variables and Params</title>
-      <link>levid-gc.github.io/hugoDocs/categories/variables-and-params/</link>
+      <link>https://levid-gc.github.io/hugoDocs/categories/variables-and-params/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/categories/variables-and-params/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/categories/variables-and-params/</guid>
       <description></description>
     </item>
     

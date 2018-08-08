@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Hugo on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/about/</link>
+    <link>https://levid-gc.github.io/hugoDocs/about/</link>
     <description>Recent content in About Hugo on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo and the  General Data Protection Regulation (GDPR)</title>
-      <link>levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</guid>
       <description>General Data Protection Regulation (GDPR) is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It became enforceable on 25 May 2018.
 Hugo is a static site generator. By using Hugo you are already standing on very solid ground. Static HTML files on disk are much easier to reason about compared to server and database driven web sites.</description>
     </item>
     
     <item>
       <title>Hugo 0.32 HOWTO</title>
-      <link>levid-gc.github.io/hugoDocs/about/new-in-032/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/new-in-032/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/new-in-032/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/new-in-032/</guid>
       <description>This documentation belongs in other places in this documentation site, but is put here first &amp;hellip; to get something up and running fast.
 Also see this demo project from bep, the clever Norwegian behind these new features:
  https://temp.bep.is/hugotest/ https://github.com/bep/hugotest (source)  Page Resources Organize Your Content   Pages with image resources   The content folder above shows a mix of content pages (md (i.</description>
@@ -34,39 +34,39 @@ Hugo is a static site generator. By using Hugo you are already standing on very 
     
     <item>
       <title>What is Hugo</title>
-      <link>levid-gc.github.io/hugoDocs/about/what-is-hugo/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/what-is-hugo/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/what-is-hugo/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/what-is-hugo/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website&amp;rsquo;s end users and an ideal writing experience for website authors.
 Websites built with Hugo are extremely fast and secure.</description>
     </item>
     
     <item>
       <title>Hugo Features</title>
-      <link>levid-gc.github.io/hugoDocs/about/features/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/features/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/features/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/features/</guid>
       <description> General  Extremely fast build times (&amp;lt; 1 ms per page) Completely cross platform, with easy installation on macOS, Linux, Windows, and more Renders changes on the fly with LiveReload as you develop Powerful theming Host your site anywhere  Organization  Straightforward organization for your projects, including website sections Customizable URLs Support for configurable taxonomies, including categories and tags Sort content as you desire through powerful template functions Automatic table of contents generation Dynamic menu creation Pretty URLs support Permalink pattern support Redirects via aliases  Content  Native Markdown and Emacs Org-Mode support, as well as other languages via external helpers (see supported formats) TOML, YAML, and JSON metadata support in front matter Customizable homepage Multiple content types Automatic and user defined content summaries Shortcodes to enable rich content inside of Markdown &amp;ldquo;Minutes to Read&amp;rdquo; functionality &amp;ldquo;Wordcount&amp;rdquo; functionality  Additional Features  Integrated Disqus comment support Integrated Google Analytics support Automatic RSS creation Support for Go, Amber, and Ace HTML templates Syntax highlighting powered by Chroma (partly compatible with Pygments)  </description>
     </item>
     
     <item>
       <title>The Benefits of Static Site Generators</title>
-      <link>levid-gc.github.io/hugoDocs/about/benefits/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/benefits/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/benefits/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/benefits/</guid>
       <description>The purpose of website generators is to render content into HTML files. Most are &amp;ldquo;dynamic site generators.&amp;rdquo; That means the HTTP server&amp;mdash;i.e., the program that sends files to the browser to be viewed&amp;mdash;runs the generator to create a new HTML file every time an end user requests a page.
 Over time, dynamic site generators were programmed to cache their HTML files to prevent unnecessary delays in delivering pages to end users.</description>
     </item>
     
     <item>
       <title>Apache License</title>
-      <link>levid-gc.github.io/hugoDocs/about/license/</link>
+      <link>https://levid-gc.github.io/hugoDocs/about/license/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/about/license/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/about/license/</guid>
       <description>Hugo v0.15 and later are released under the Apache 2.0 license. Earlier versions of Hugo were released under the Simple Public License.
 Version 2.0, January 2004 http://www.apache.org/licenses/LICENSE-2.0
 Terms and Conditions for use, reproduction, and distribution

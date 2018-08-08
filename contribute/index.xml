@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contribute to the Hugo Project on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/contribute/</link>
+    <link>https://levid-gc.github.io/hugoDocs/contribute/</link>
     <description>Recent content in Contribute to the Hugo Project on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/contribute/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/contribute/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contribute to Hugo Development</title>
-      <link>levid-gc.github.io/hugoDocs/contribute/development/</link>
+      <link>https://levid-gc.github.io/hugoDocs/contribute/development/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/contribute/development/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/contribute/development/</guid>
       <description>Introduction Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.
 Assumptions This contribution guide takes a step-by-step approach in hopes of helping newcomers. Therefore, we only assume the following:
  You are new to Git or open-source projects in general You are a fan of Hugo and enthusiastic about contributing to the project  If you&amp;rsquo;re struggling at any point in this contribution guide, reach out to the Hugo community in Hugo&amp;rsquo;s Discussion forum.</description>
@@ -24,20 +24,20 @@ Assumptions This contribution guide takes a step-by-step approach in hopes of he
     
     <item>
       <title>Contribute to the Hugo Docs</title>
-      <link>levid-gc.github.io/hugoDocs/contribute/documentation/</link>
+      <link>https://levid-gc.github.io/hugoDocs/contribute/documentation/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/contribute/documentation/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/contribute/documentation/</guid>
       <description>Create Your Fork It&amp;rsquo;s best to make changes to the Hugo docs on your local machine to check for consistent visual styling. Make sure you&amp;rsquo;ve created a fork of hugoDocs on GitHub and cloned the repository locally on your machine. For more information, you can see GitHub&amp;rsquo;s documentation on &amp;ldquo;forking&amp;rdquo; or follow along with Hugo&amp;rsquo;s development contribution guide.
 You can then create a separate branch for your additions. Be sure to choose a descriptive branch name that best fits the type of content.</description>
     </item>
     
     <item>
       <title>Add Your Hugo Theme to the Showcase</title>
-      <link>levid-gc.github.io/hugoDocs/contribute/themes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/contribute/themes/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/contribute/themes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/contribute/themes/</guid>
       <description>A collection of all themes created by the Hugo community, including screenshots and demos, can be found at https://themes.gohugo.io. Every theme in this list will automatically be added to the theme site. Theme updates aren&amp;rsquo;t scheduled but usually happen at least once a week.
 tl;dr  Create your theme using hugo new theme &amp;lt;THEMENAME&amp;gt;; Test your theme against https://github.com/gohugoio/hugoBasicExample * Add a theme.toml file to the root of the theme with all required metadata Add a descriptive README.</description>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo – The world’s fastest framework for building websites</title>
-    <link>levid-gc.github.io/hugoDocs/</link>
+    <link>https://levid-gc.github.io/hugoDocs/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <image>
-      <url>levid-gc.github.io/hugoDocs/img/hugo.png</url>
+      <url>https://levid-gc.github.io/hugoDocs/img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>levid-gc.github.io/hugoDocs/</link>
+      <link>https://levid-gc.github.io/hugoDocs/</link>
     </image>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News: The Summer of Hugo</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.46-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.46-relnotes/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.46-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.46-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.46-relnotes/featured-hugo-46-poster_hue04c7655caa254a1835311c9409185d8_68614_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.46-relnotes/featured-hugo-46-poster_hue04c7655caa254a1835311c9409185d8_68614_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -90,10 +90,10 @@ which has received &lt;strong&gt;5 contributions by 3 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.45.1: Two Bug Fixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</guid>
       <description>
         
         
@@ -119,15 +119,15 @@ which has received &lt;strong&gt;5 contributions by 3 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.45: Revival of ref, relref and GetPage</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.45-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.45-relnotes/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.45-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.45-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.45-relnotes/featured-hugo-45-poster_huea79995576e3b93a3041ae824a391758_66863_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.45-relnotes/featured-hugo-45-poster_huea79995576e3b93a3041ae824a391758_66863_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -220,15 +220,15 @@ which has received &lt;strong&gt;10 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.44: Friday the 13th Edition</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.44-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.44-relnotes/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.44-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.44-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.44-relnotes/featured-hugo-44-poster_hu6505d1982bab71bfe9c6c7adcedfd7f7_77631_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.44-relnotes/featured-hugo-44-poster_hu6505d1982bab71bfe9c6c7adcedfd7f7_77631_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -277,15 +277,15 @@ which has received &lt;strong&gt;10 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>News: And Now: Hugo Pipes!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.43-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.43-relnotes/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.43-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.43-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.43-relnotes/featured-hugo-43-poster_hu3948fe44e4a966d8149b4bf077395057_78299_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.43-relnotes/featured-hugo-43-poster_hu3948fe44e4a966d8149b4bf077395057_78299_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -393,15 +393,15 @@ which has received &lt;strong&gt;11 contributions by 5 contributors&lt;/strong&g
     
     <item>
       <title>News: Let’s celebrate Hugo’s 5th birthday</title>
-      <link>levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/featured_hu30cb938a182ebd06b50ed15d006d8f64_179291_640x0_resize_catmullrom_2.png" width="640" height="642"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/featured_hu30cb938a182ebd06b50ed15d006d8f64_179291_640x0_resize_catmullrom_2.png" width="640" height="642"/>]]>
         
         
 
@@ -421,7 +421,7 @@ which has received &lt;strong&gt;11 contributions by 5 contributors&lt;/strong&g
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;levid-gc.github.io/hugoDocs/levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://levid-gc.github.io/hugoDocs/hugoDocs/news/lets-celebrate-hugos-5th-birthday/sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -453,7 +453,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;levid-gc.github.io/hugoDocs/levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/graph-stars_hu169ba15a8bcaf4ddd6a5a1aa8505c448_15599_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://levid-gc.github.io/hugoDocs/hugoDocs/news/lets-celebrate-hugos-5th-birthday/graph-stars_hu169ba15a8bcaf4ddd6a5a1aa8505c448_15599_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -500,7 +500,7 @@ Number of GitHub stars in relation to the Hugo release dates.
 
 &lt;p&gt;We should be able to create a better and easier-to-use data structure from the rendered content: Summary, the content after the summary, being able to range over the footnotes and the ToC. Having ToC as a proper data structure also opens up a few other potential uses; using it as an index in &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;Related Content&lt;/a&gt; would be one example.&lt;/p&gt;
 
-&lt;p&gt;This should also enable us to &lt;em&gt;do more&lt;/em&gt; with &lt;a href=&#34;levid-gc.github.io/hugoDocs/templates/output-formats&#34;&gt;Custom Output Formats&lt;/a&gt;. It is already very powerful. GettyPubs are using it in &lt;a href=&#34;https://github.com/gettypubs/quire&#34;&gt;Quire&lt;/a&gt; to build &lt;a href=&#34;http://www.getty.edu/publications/digital/digitalpubs.html&#34;&gt;beautiful multi-platform publications&lt;/a&gt;. But it can be improved. For rendering of content files, you are currently restricted to HTML. It would be great if we could configure alternative renderers per output format, such as LaTeX and EPUB.&lt;/p&gt;
+&lt;p&gt;This should also enable us to &lt;em&gt;do more&lt;/em&gt; with &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/templates/output-formats&#34;&gt;Custom Output Formats&lt;/a&gt;. It is already very powerful. GettyPubs are using it in &lt;a href=&#34;https://github.com/gettypubs/quire&#34;&gt;Quire&lt;/a&gt; to build &lt;a href=&#34;http://www.getty.edu/publications/digital/digitalpubs.html&#34;&gt;beautiful multi-platform publications&lt;/a&gt;. But it can be improved. For rendering of content files, you are currently restricted to HTML. It would be great if we could configure alternative renderers per output format, such as LaTeX and EPUB.&lt;/p&gt;
 
 &lt;p&gt;Related to this is also to add a configurable &amp;ldquo;Markdown URL rewriter&amp;rdquo;, which should make more portable URLs in Markdown, e.g. image links that work both when viewed on GitHub and your published site.&lt;/p&gt;
 
@@ -510,7 +510,7 @@ Number of GitHub stars in relation to the Hugo release dates.
 
 &lt;dl&gt;
 &lt;dt&gt;Dependency manager for Theme Components&lt;/dt&gt;
-&lt;dd&gt;In Hugo &lt;code&gt;0.42&lt;/code&gt; we added &lt;a href=&#34;levid-gc.github.io/hugoDocs/themes/theme-components/&#34;&gt;Theme Components&lt;/a&gt; and Theme Inheritance. With SCSS support in Hugo &lt;code&gt;0.43&lt;/code&gt;, which also follows the same project/themes precedence order (add &lt;code&gt;_variables.scss&lt;/code&gt; to your project, configure SASS colour variables in &lt;code&gt;config.toml&lt;/code&gt;), we have a solid foundation for creating easy to use and extensible themes. But we are missing some infrastructure around this. We have a site with 235+ &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:themes&#34;&gt;&lt;a href=&#34;#fn:themes&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; listed, but you currently need to do some added work to get the theme up and running for your site. In the Go world, we don&amp;rsquo;t have NPM to use, which is a curse and a blessing, but I have some ideas about building a simple dependency manager into Hugo, modelled after how Go is doing it (&lt;code&gt;hugo install&lt;/code&gt;). You should be able to configure what theme and theme components you want to use, and Hugo should handle the installation of the correct versions. This should make it easier for the user, but it would also enable community driven and even commercial &amp;ldquo;theme stores&amp;rdquo;.&lt;/dd&gt;
+&lt;dd&gt;In Hugo &lt;code&gt;0.42&lt;/code&gt; we added &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/themes/theme-components/&#34;&gt;Theme Components&lt;/a&gt; and Theme Inheritance. With SCSS support in Hugo &lt;code&gt;0.43&lt;/code&gt;, which also follows the same project/themes precedence order (add &lt;code&gt;_variables.scss&lt;/code&gt; to your project, configure SASS colour variables in &lt;code&gt;config.toml&lt;/code&gt;), we have a solid foundation for creating easy to use and extensible themes. But we are missing some infrastructure around this. We have a site with 235+ &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:themes&#34;&gt;&lt;a href=&#34;#fn:themes&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; listed, but you currently need to do some added work to get the theme up and running for your site. In the Go world, we don&amp;rsquo;t have NPM to use, which is a curse and a blessing, but I have some ideas about building a simple dependency manager into Hugo, modelled after how Go is doing it (&lt;code&gt;hugo install&lt;/code&gt;). You should be able to configure what theme and theme components you want to use, and Hugo should handle the installation of the correct versions. This should make it easier for the user, but it would also enable community driven and even commercial &amp;ldquo;theme stores&amp;rdquo;.&lt;/dd&gt;
 &lt;/dl&gt;
 
 
@@ -521,7 +521,7 @@ Number of GitHub stars in relation to the Hugo release dates.
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;levid-gc.github.io/hugoDocs/levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/graph-themes_hu25707bee0ec3007199f71bb29226f30c_16956_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; height: auto;&#34; src=&#34;https://levid-gc.github.io/hugoDocs/hugoDocs/news/lets-celebrate-hugos-5th-birthday/graph-themes_hu25707bee0ec3007199f71bb29226f30c_16956_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -566,10 +566,10 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
     
     <item>
       <title>News: Hugo 0.42.2: One Bug Fix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</guid>
       <description>
         
         
@@ -580,10 +580,10 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
     
     <item>
       <title>News: Hugo 0.42.1: Two Bug Fixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</guid>
       <description>
         
         
@@ -599,15 +599,15 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
     
     <item>
       <title>News: Hugo 0.42: Theme Composition and Inheritance!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.42-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.42-relnotes/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.42-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.42-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.42-relnotes/featured-hugo-42-poster_hue0604c0846526b6d2f8ba376edd013b6_74852_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.42-relnotes/featured-hugo-42-poster_hue0604c0846526b6d2f8ba376edd013b6_74852_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -679,15 +679,15 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.41: Privacy Configuration for GDPR</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.41-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.41-relnotes/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.41-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.41-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.41-relnotes/featured-hugo-41-poster_hud81cd208cb270af61610509ee199ae20_67955_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.41-relnotes/featured-hugo-41-poster_hud81cd208cb270af61610509ee199ae20_67955_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -755,10 +755,10 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.40.3: One Bug Fix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</guid>
       <description>
         
         
@@ -769,17 +769,17 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>Showcase: Tomango</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/tomango/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/tomango/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/tomango/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/tomango/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/tomango/featured_hube95635899674dbe563e9fac9518dc5a_232791_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/tomango/featured_hube95635899674dbe563e9fac9518dc5a_232791_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
-        &lt;p&gt;Hugo is our static site generator (SSG) of choice. It&amp;rsquo;s &lt;strong&gt;really quick&lt;/strong&gt;. After using it on a number of &lt;a href=&#34;levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/&#34;&gt;client projects&lt;/a&gt;, it became clear that our new site &lt;em&gt;had&lt;/em&gt; to be built with Hugo.&lt;/p&gt;
+        &lt;p&gt;Hugo is our static site generator (SSG) of choice. It&amp;rsquo;s &lt;strong&gt;really quick&lt;/strong&gt;. After using it on a number of &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/&#34;&gt;client projects&lt;/a&gt;, it became clear that our new site &lt;em&gt;had&lt;/em&gt; to be built with Hugo.&lt;/p&gt;
 
 &lt;p&gt;The big benefit of an SSG is how it moves all the heavy lifting to the build time.&lt;/p&gt;
 
@@ -798,10 +798,10 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.40.2: Two Bug fixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</guid>
       <description>
         
         
@@ -817,10 +817,10 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.40.1: One Bug Fix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</guid>
       <description>
         
         
@@ -831,15 +831,15 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>Showcase: Flesland Flis AS</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/flesland-flis/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/flesland-flis/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/flesland-flis/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/flesland-flis/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/flesland-flis/featured_hue4fd3c0e7519777bd75019750a0f5391_309284_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/flesland-flis/featured_hue4fd3c0e7519777bd75019750a0f5391_309284_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -862,15 +862,15 @@ which has received &lt;strong&gt;8 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.40: The Revival of the Shortcodes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.40-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.40-relnotes/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.40-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.40-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.40-relnotes/featured-hugo-40-poster_hu20c69e2a166f65e329d8fbabe8d2cc58_69238_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.40-relnotes/featured-hugo-40-poster_hu20c69e2a166f65e329d8fbabe8d2cc58_69238_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -951,15 +951,15 @@ which has received &lt;strong&gt;13 contributions by 6 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.39: The Nat King Cole Stabilizer Edition</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.39-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.39-relnotes/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.39-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.39-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.39-relnotes/featured-hugo-39-poster_hu3261e6e65defb4edf9f0fce20bf5f60d_217215_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.39-relnotes/featured-hugo-39-poster_hu3261e6e65defb4edf9f0fce20bf5f60d_217215_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1057,10 +1057,10 @@ which has received &lt;strong&gt;6 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.38.2: Two Bugfixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</guid>
       <description>
         
         
@@ -1082,10 +1082,10 @@ which has received &lt;strong&gt;6 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.38.1: Some Live Reload Fixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</guid>
       <description>
         
         
@@ -1111,15 +1111,15 @@ which has received &lt;strong&gt;6 contributions by 5 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.38: The Easter Egg Edition</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.38-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.38-relnotes/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.38-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.38-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.38-relnotes/featured-poster_hudf8012d38ef42d46a6cab1b31156bf3a_69978_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.38-relnotes/featured-poster_hudf8012d38ef42d46a6cab1b31156bf3a_69978_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1190,15 +1190,15 @@ which has received &lt;strong&gt;55 contributions by 18 contributors&lt;/strong&
     
     <item>
       <title>Showcase: Forestry.io</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/forestry/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/forestry/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/forestry/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/forestry/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/forestry/featured_hu77de7d99834fa13b854b7fc62e2912a7_227009_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/forestry/featured_hu77de7d99834fa13b854b7fc62e2912a7_227009_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1246,10 +1246,10 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms&lt;/code&gt;&lt;/pre&
     
     <item>
       <title>News: Hugo 0.37.1: One Bugfix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</guid>
       <description>
         
         
@@ -1262,15 +1262,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms&lt;/code&gt;&lt;/pre&
     
     <item>
       <title>News: Hugo 0.37: Preserve PNG Colour Palette</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.37-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.37-relnotes/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.37-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.37-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.37-relnotes/featured-hugo-37-poster_hue9685d25c387d657b0640498bf6a10ee_186693_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.37-relnotes/featured-hugo-37-poster_hue9685d25c387d657b0640498bf6a10ee_186693_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1357,15 +1357,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: 1Password Support</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/1password-support/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/1password-support/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/1password-support/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/1password-support/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/1password-support/featured_hu870838c23243880857c2e418dd7ac099_165718_640x0_resize_catmullrom_2.png" width="640" height="319"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/1password-support/featured_hu870838c23243880857c2e418dd7ac099_165718_640x0_resize_catmullrom_2.png" width="640" height="319"/>]]>
         
         
 
@@ -1397,7 +1397,7 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
 &lt;li&gt;Writers build and preview the site on their computers and contribute content using pull requests.
 
 &lt;ul&gt;
-&lt;li&gt;We use Hugo&amp;rsquo;s &lt;a href=&#34;levid-gc.github.io/hugoDocs/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt; to build the site in English, Spanish, French, Italian, German, and Russian. With the help of Hugo, 1Password Support became our very first site in multiple languages.&lt;/li&gt;
+&lt;li&gt;We use Hugo&amp;rsquo;s &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt; to build the site in English, Spanish, French, Italian, German, and Russian. With the help of Hugo, 1Password Support became our very first site in multiple languages.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Our &lt;a href=&#34;https://support.1password.com/contact&#34;&gt;contact form&lt;/a&gt; is a single-page React app. We were able to integrate it with Hugo seamlessly thanks to its support for static files.&lt;/li&gt;
 &lt;li&gt;The one part of the support site which is not static is our search engine, which we developed with Elasticsearch and host on AWS.&lt;/li&gt;
@@ -1408,15 +1408,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: StackImpact</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/stackimpact/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/stackimpact/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/stackimpact/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/stackimpact/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/stackimpact/featured_hu863cdba7b6e18bb95f64289a25912f5c_153794_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/stackimpact/featured_hu863cdba7b6e18bb95f64289a25912f5c_153794_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;After gradually handing over the control of our website to WordPress plugins, we realized that we needed to act.&lt;/p&gt;
 
@@ -1433,10 +1433,10 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.36.1: One Bugfix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</guid>
       <description>
         
         
@@ -1470,15 +1470,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: Quiply Employee Communications App</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/featured_hua0e0d1ed0f0bc15921e78476b0c86c95_631206_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/featured_hua0e0d1ed0f0bc15921e78476b0c86c95_631206_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;With the launch of our Employee Communications app Quiply we created a very simple and static one-page website to showcase our product.&lt;/p&gt;
 
@@ -1493,15 +1493,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: Linode Docs</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/linode/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/linode/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/linode/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/linode/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/linode/featured_hu6acc14b2375e47c4c764fef09fdb54c0_126664_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/linode/featured_hu6acc14b2375e47c4c764fef09fdb54c0_126664_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;The documentation team at Linode has been writing guides since 2009, with the goal of helping new and experienced Linux users find the best tools and get the most out of their systems.&lt;/p&gt;
 
@@ -1516,15 +1516,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: Hartwell Insurance</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/featured_hu642e730c6f819b15fc6ebbaa25b0243f_446603_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/featured_hu642e730c6f819b15fc6ebbaa25b0243f_446603_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1591,15 +1591,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: Pace Revenue Management</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/featured_hu143b6afebcd8780a08aa0a9f8e95dd02_298908_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/featured_hu143b6afebcd8780a08aa0a9f8e95dd02_298908_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;From the beginning, at Pace, we were focused on solving customer needs and didn&amp;rsquo;t want to over-engineer our marketing or sales. At the same time we didn&amp;rsquo;t want to lock ourselves into a Wordpress, Squarespace or the like.&lt;/p&gt;
 
@@ -1618,15 +1618,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>Showcase: Hugo Showcase Template</title>
-      <link>levid-gc.github.io/hugoDocs/showcase/template/</link>
+      <link>https://levid-gc.github.io/hugoDocs/showcase/template/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/showcase/template/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/showcase/template/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/showcase/template/featured-template_hu2f0d11388f944348b232a431caeb965b_41270_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/showcase/template/featured-template_hu2f0d11388f944348b232a431caeb965b_41270_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1641,7 +1641,7 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
 &lt;li&gt;Create a new pull request in &lt;a href=&#34;https://github.com/gohugoio/hugoDocs/pulls&#34;&gt;https://github.com/gohugoio/hugoDocs/pulls&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The Showcase section uses the latest bells and whistles from Hugo, &lt;a href=&#34;levid-gc.github.io/hugoDocs/content-management/page-resources/&#34;&gt;resources&lt;/a&gt; with &lt;a href=&#34;levid-gc.github.io/hugoDocs/content-management/image-processing/&#34;&gt;image processing&lt;/a&gt;, so you need a reasonable up-to-date &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo version&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The Showcase section uses the latest bells and whistles from Hugo, &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/content-management/page-resources/&#34;&gt;resources&lt;/a&gt; with &lt;a href=&#34;https://levid-gc.github.io/hugoDocs/content-management/image-processing/&#34;&gt;image processing&lt;/a&gt;, so you need a reasonable up-to-date &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Hugo version&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;files&#34;&gt;Files&lt;/h2&gt;
 
@@ -1670,15 +1670,15 @@ which has received &lt;strong&gt;24 contributions by 8 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.36: Smart Image Cropping!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.36-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.36-relnotes/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.36-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.36-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.36-relnotes/featured-hugo-36-poster_huf2fee368f65c75d3878561ed4225c39a_67640_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.36-relnotes/featured-hugo-36-poster_huf2fee368f65c75d3878561ed4225c39a_67640_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1729,15 +1729,15 @@ which has received &lt;strong&gt;9 contributions by 4 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.35: Headless Bundles!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.35-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.35-relnotes/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.35-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.35-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.35-relnotes/featured-hugo-35-poster_hua42b1310dd72f60a34e02851ebf2f82e_88519_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.35-relnotes/featured-hugo-35-poster_hua42b1310dd72f60a34e02851ebf2f82e_88519_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1848,15 +1848,15 @@ which has received &lt;strong&gt;28 contributions by 5 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.34: Pattern matching to filter images and other resources</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.34-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.34-relnotes/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.34-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.34-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.34-relnotes/featured-34-poster_hud8d73dc5df8d5a35383849a78eea35dd_78317_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.34-relnotes/featured-34-poster_hud8d73dc5df8d5a35383849a78eea35dd_78317_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -1913,15 +1913,15 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.33: The New Kinder Surprise!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.33-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.33-relnotes/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.33-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.33-relnotes/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/levid-gc.github.io/hugoDocs/news/0.33-relnotes/featured-hugo-33-poster_hu45ce9da1cdea6ca61c5f4f5baccdcad4_70230_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="https://levid-gc.github.io/hugoDocs/news/0.33-relnotes/featured-hugo-33-poster_hu45ce9da1cdea6ca61c5f4f5baccdcad4_70230_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         
 
@@ -2000,10 +2000,10 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.32.4: Two bugfixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</guid>
       <description>
         
         
@@ -2019,10 +2019,10 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.32.3: Some important bug fixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</guid>
       <description>
         
         
@@ -2046,10 +2046,10 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.32.2: One bugfix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</guid>
       <description>
         
         
@@ -2064,10 +2064,10 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.32.1: Two bugfixes</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</guid>
       <description>
         
         
@@ -2083,10 +2083,10 @@ which has received &lt;strong&gt;25 contributions by 16 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.32: Page Bundles and Image Processing!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.32-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.32-relnotes/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.32-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.32-relnotes/</guid>
       <description>
         
         
@@ -2201,10 +2201,10 @@ which has received &lt;strong&gt;17 contributions by 7 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.31.1: One Bugfix!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</guid>
       <description>
         
         
@@ -2219,10 +2219,10 @@ which has received &lt;strong&gt;17 contributions by 7 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.31: Language Multihost Edition!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.31-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.31-relnotes/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.31-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.31-relnotes/</guid>
       <description>
         
         
@@ -2317,10 +2317,10 @@ which has received &lt;strong&gt;13 contributions by 9 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.30.2: One More Bugfix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</link>
       <pubDate>Thu, 19 Oct 2017 12:00:00 +0200</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</guid>
       <description>
         
         
@@ -2331,10 +2331,10 @@ which has received &lt;strong&gt;13 contributions by 9 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.30.1: Two Important Bugfixes!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</guid>
       <description>
         
         
@@ -2358,10 +2358,10 @@ which has received &lt;strong&gt;13 contributions by 9 contributors&lt;/strong&g
     
     <item>
       <title>News: Hugo 0.30: Race Car Edition!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.30-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.30-relnotes/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.30-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.30-relnotes/</guid>
       <description>
         
         
@@ -2438,10 +2438,10 @@ which has received &lt;strong&gt;26 contributions by 15 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.29: Template Metrics</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.29-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.29-relnotes/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.29-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.29-relnotes/</guid>
       <description>
         
         
@@ -2489,10 +2489,10 @@ which has received &lt;strong&gt;26 contributions by 15 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.28: High-speed Syntax Highlighting!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.28-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.28-relnotes/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.28-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.28-relnotes/</guid>
       <description>
         
         
@@ -2561,10 +2561,10 @@ which has received &lt;strong&gt;9 contributions by 7 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.27.1: One bugfix</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</guid>
       <description>
         
         
@@ -2581,10 +2581,10 @@ which has received &lt;strong&gt;9 contributions by 7 contributors&lt;/strong&gt
     
     <item>
       <title>News: Hugo 0.27: Fast and Flexible Related Content!</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.27-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.27-relnotes/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.27-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.27-relnotes/</guid>
       <description>
         
         
@@ -2679,10 +2679,10 @@ which has received &lt;strong&gt;44 contributions by 30 contributors&lt;/strong&
     
     <item>
       <title>News: Hugo 0.26: Language Style Edition</title>
-      <link>levid-gc.github.io/hugoDocs/news/0.26-relnotes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/news/0.26-relnotes/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/news/0.26-relnotes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/news/0.26-relnotes/</guid>
       <description>
         
         

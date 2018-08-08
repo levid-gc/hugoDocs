@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Functions on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/categories/functions/</link>
+    <link>https://levid-gc.github.io/hugoDocs/categories/functions/</link>
     <description>Recent content in Functions on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/categories/functions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/categories/functions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>strings.RuneCount</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.runecount/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.runecount/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.runecount/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.runecount/</guid>
       <description>In contrast with strings.CountRunes function, which strips HTML and whitespace before counting runes, strings.RuneCount simply counts all the runes in a string. It relies on the Go [utf8.RuneCountInString] function.
 {{ &amp;quot;Hello, 世界&amp;quot; | strings.RuneCount }} &amp;lt;!-- outputs a content length of 9 runes. --&amp;gt;  </description>
     </item>
     
     <item>
       <title>strings.Repeat</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.repeat/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.repeat/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.repeat/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.repeat/</guid>
       <description>strings.Repeat provides the Go strings.Repeat function for Hugo templates. It takes a string and a count, and returns a string with consisting of count copies of the string argument.
 {{ strings.Repeat &amp;quot;yo&amp;quot; 3 }} → &amp;quot;yoyoyo&amp;quot;  strings.Repeat requires the second argument, which tells the function how many times to repeat the first argument; there is no default. However, it can be used as a pipeline:
 {{ &amp;quot;yo&amp;quot; | strings.Repeat 3 }} → &amp;quot;yoyoyo&amp;quot;  </description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>lang.Merge</title>
-      <link>levid-gc.github.io/hugoDocs/functions/lang.merge/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/lang.merge/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/lang.merge/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/lang.merge/</guid>
       <description>As an example:
 {{ $pages := .Site.RegularPages | lang.Merge $frSite.RegularPages | lang.Merge $enSite.RegularPages }} Will &amp;ldquo;fill in the gaps&amp;rdquo; in the current site with, from left to right, content from the French site, and lastly the English.
 A more practical example is to fill in the missing translations for the &amp;ldquo;minority languages&amp;rdquo; with content from the main language:
@@ -46,10 +46,10 @@ A more practical example is to fill in the missing translations for the &amp;ldq
     
     <item>
       <title>errorf</title>
-      <link>levid-gc.github.io/hugoDocs/functions/errorf/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/errorf/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/errorf/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/errorf/</guid>
       <description>errorf will evaluate a format string, then output the result to the ERROR log (and only once per error message to avoid flooding the log).
 This will also cause the build to fail (the hugo command will exit -1).
 {{ errorf &amp;quot;Failed to handle page %q&amp;quot; .Path }}  Note that errorf supports all the formatting verbs of the fmt package.</description>
@@ -57,20 +57,20 @@ This will also cause the build to fail (the hugo command will exit -1).
     
     <item>
       <title>float</title>
-      <link>levid-gc.github.io/hugoDocs/functions/float/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/float/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/float/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/float/</guid>
       <description>Useful for turning strings into floating point numbers.
 {{ float &amp;quot;1.23&amp;quot; }} → 1.23  </description>
     </item>
     
     <item>
       <title>urls.Parse</title>
-      <link>levid-gc.github.io/hugoDocs/functions/urls.parse/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/urls.parse/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/urls.parse/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/urls.parse/</guid>
       <description>urls.Parse takes a url as input
 {{ $url := urls.Parse &amp;quot;http://www.gohugo.io&amp;quot; }}  and returns a URL structure. The struct fields are accessed via the . notation:
 {{ $url.Scheme }} → &amp;quot;http&amp;quot; {{ $url.Host }} → &amp;quot;www.gohugo.io&amp;quot;  </description>
@@ -78,10 +78,10 @@ This will also cause the build to fail (the hugo command will exit -1).
     
     <item>
       <title>cond</title>
-      <link>levid-gc.github.io/hugoDocs/functions/cond/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/cond/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/cond/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/cond/</guid>
       <description>cond returns VAR1 if CONTROL is true, or VAR2 if it is not.
 Example:
 {{ cond (eq (len $geese) 1) &amp;quot;goose&amp;quot; &amp;quot;geese&amp;quot; }}  Would emit &amp;ldquo;goose&amp;rdquo; if the $geese array has exactly 1 item, or &amp;ldquo;geese&amp;rdquo; otherwise.
@@ -90,74 +90,74 @@ Example:
     
     <item>
       <title>fileExists</title>
-      <link>levid-gc.github.io/hugoDocs/functions/fileexists/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/fileexists/</link>
       <pubDate>Thu, 31 Aug 2017 22:38:22 +0200</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/fileexists/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/fileexists/</guid>
       <description>fileExists allows you to check if a file exists under a given path, e.g. before inserting code into a template:
 {{ if (fileExists &amp;quot;static/img/banner.jpg&amp;quot;) -}} &amp;lt;img src=&amp;quot;{{ &amp;quot;img/banner.jpg&amp;quot; | absURL }}&amp;quot; /&amp;gt; {{- end }}  In the example above, a banner from the static folder should be shown if the given path points to an existing file.</description>
     </item>
     
     <item>
       <title>ge</title>
-      <link>levid-gc.github.io/hugoDocs/functions/ge/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/ge/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/ge/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/ge/</guid>
       <description>{{ if ge 10 5 }}true{{ end }}  </description>
     </item>
     
     <item>
       <title>gt</title>
-      <link>levid-gc.github.io/hugoDocs/functions/gt/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/gt/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/gt/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/gt/</guid>
       <description>{{ if gt 10 5 }}true{{ end }}  </description>
     </item>
     
     <item>
       <title>le</title>
-      <link>levid-gc.github.io/hugoDocs/functions/le/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/le/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/le/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/le/</guid>
       <description>{{ if le 5 10 }}true{{ end }}  </description>
     </item>
     
     <item>
       <title>lt</title>
-      <link>levid-gc.github.io/hugoDocs/functions/lt/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/lt/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/lt/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/lt/</guid>
       <description>{{ if lt 5 10 }}true{{ end }}  </description>
     </item>
     
     <item>
       <title>ne</title>
-      <link>levid-gc.github.io/hugoDocs/functions/ne/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/ne/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/ne/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/ne/</guid>
       <description>{{ if ne .Section &amp;quot;blog&amp;quot; }}current{{ end }}  </description>
     </item>
     
     <item>
       <title></title>
-      <link>levid-gc.github.io/hugoDocs/functions/imageconfig/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/imageconfig/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/imageconfig/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/imageconfig/</guid>
       <description>{{ with (imageConfig &amp;quot;favicon.ico&amp;quot;) }} favicon.ico: {{.Width}} x {{.Height}} {{ end }}  </description>
     </item>
     
     <item>
       <title>.AddDate</title>
-      <link>levid-gc.github.io/hugoDocs/functions/adddate/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/adddate/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/adddate/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/adddate/</guid>
       <description>The AddDate function takes three arguments in logical order of years, months, and days.
 Example: Randomized Tweets from the Last 2 Years Let&amp;rsquo;s assume you have a file at data/tweets.toml that contains a list of Tweets to display on your site&amp;rsquo;s homepage. The file is filled with [[tweet]] blocks; e.g.&amp;mdash;
 [[tweet]] name = &amp;quot;Steve Francia&amp;quot; twitter_handle = &amp;quot;@spf13&amp;quot; quote = &amp;quot;I&#39;m creator of Hugo. #metadocreference&amp;quot; link = &amp;quot;https://twitter.com/spf13&amp;quot; date = &amp;quot;2017-01-07T00:00:00Z&amp;quot;  Let&amp;rsquo;s assume you want to grab Tweets from the last two years and present them in a random order.</description>
@@ -165,10 +165,10 @@ Example: Randomized Tweets from the Last 2 Years Let&amp;rsquo;s assume you have
     
     <item>
       <title>.Format</title>
-      <link>levid-gc.github.io/hugoDocs/functions/format/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/format/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/format/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/format/</guid>
       <description>.Format will format date values defined in your front matter and can be used as a property on the following page variables:
  .PublishDate .Date .Lastmod  Assuming a key-value of date: 2017-03-03 in a content file&amp;rsquo;s front matter, your can run the date through .Format followed by a layout string for your desired output at build time:
 {{ .PublishDate.Format &amp;quot;January 2, 2006&amp;quot; }} =&amp;gt; March 3, 2017  For formatting any string representations of dates defined in your front matter, see the dateFormat function, which will still leverage the Go layout string explained below but uses a slightly different syntax.</description>
@@ -176,50 +176,50 @@ Example: Randomized Tweets from the Last 2 Years Let&amp;rsquo;s assume you have
     
     <item>
       <title>.Get</title>
-      <link>levid-gc.github.io/hugoDocs/functions/get/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/get/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/get/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/get/</guid>
       <description>.Get is specifically used when creating your own shortcode template, to access the positional and named parameters passed to it. When used with a numeric INDEX, it queries positional parameters (starting with 0). With a string KEY, it queries named parameters.
 When accessing a named parameter that does not exist, .Get returns an empty string instead of interrupting the build. The same goes with positional parameters in hugo version 0.40 and after.</description>
     </item>
     
     <item>
       <title>.GetPage</title>
-      <link>levid-gc.github.io/hugoDocs/functions/getpage/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/getpage/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/getpage/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/getpage/</guid>
       <description>.GetPage returns a page of a given path. Both Site and Page implements this method. The Page variant will, if given a relative path &amp;ndash; i.e. a path without a leading / &amp;ndash; try look for the page relative to the current page.
 Note: We overhauled and simplified the .GetPage API in Hugo 0.45. Before that you needed to provide a Kind attribute in addition to the path, e.</description>
     </item>
     
     <item>
       <title>.HasMenuCurrent</title>
-      <link>levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</guid>
       <description>.HasMenuCurrent is a method in Page object returning a boolean value. It returns true if the PAGE is the same object as the .Page in one of the children menu entries under MENUENTRY in a given MENU.
 You can find its example use in menu templates.</description>
     </item>
     
     <item>
       <title>.IsMenuCurrent</title>
-      <link>levid-gc.github.io/hugoDocs/functions/ismenucurrent/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/ismenucurrent/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/ismenucurrent/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/ismenucurrent/</guid>
       <description>.IsMenuCurrent is a method in Page object returning a boolean value. It returns true if the PAGE is the same object as the .Page in MENUENTRY in a given MENU.
 You can find its example use in menu templates.</description>
     </item>
     
     <item>
       <title>.Param</title>
-      <link>levid-gc.github.io/hugoDocs/functions/param/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/param/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/param/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/param/</guid>
       <description>In Hugo, you can declare site-wide params (i.e. in your configuration), as well as params for individual pages.
 A common use case is to have a general value for the site and a more specific value for some of the pages (e.g., an image).
 You can use the .Param method to call these values into your template. The following will first look for an image param in a specific content&amp;rsquo;s front matter.</description>
@@ -227,10 +227,10 @@ You can use the .Param method to call these values into your template. The follo
     
     <item>
       <title>.Scratch</title>
-      <link>levid-gc.github.io/hugoDocs/functions/scratch/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/scratch/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/scratch/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/scratch/</guid>
       <description>In most cases you can do okay without Scratch, but due to scoping issues, there are many use cases that aren&amp;rsquo;t solvable in Go Templates without Scratch&amp;rsquo;s help.
 .Scratch is available as methods on Page and Shortcode. Since Hugo 0.43 you can also create a locally scoped Scratch using the template func newScratch.
 See this Go issue for the main motivation behind Scratch.
@@ -239,29 +239,29 @@ You can use the .Param method to call these values into your template. The follo
     
     <item>
       <title>.Unix</title>
-      <link>levid-gc.github.io/hugoDocs/functions/unix/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/unix/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/unix/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/unix/</guid>
       <description>Example: Time Passed Since Last Modification This very simple one-liner uses now.Unix to calculate the amount of time that has passed between the .LastMod for the current page and the last build of the current page.
 time-passed.html{{div(subnow.Unix.Lastmod.Unix)86400}}Since both values are integers, they can be subtracted and then divided by the number of seconds in a day (i.e., 60 * 60 * 24 == 86400).</description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>levid-gc.github.io/hugoDocs/functions/math/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/math/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/math/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/math/</guid>
       <description>Function Description Example     add Adds two numbers. {{add 1 2}} &amp;rarr; 3    If one of the numbers is a float, the result is a float. {{add 1.1 2}} &amp;rarr; 3.1   sub Subtracts two numbers. {{sub 3 2}} &amp;rarr; 1    If one of the numbers is a float, the result is a float. {{sub 3 2.5}} &amp;rarr; 0.</description>
     </item>
     
     <item>
       <title>absLangURL</title>
-      <link>levid-gc.github.io/hugoDocs/functions/abslangurl/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/abslangurl/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/abslangurl/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/abslangurl/</guid>
       <description>Both absLangURL and relLangURL are similar to their absURL and relURL relatives but will add the correct language prefix when the site is configured with more than one language.
 So for a site baseURL set to https://example.com/hugo/ and the current language is en:
 {{ &amp;quot;blog/&amp;quot; | absLangURL }} → &amp;quot;https://example.com/hugo/en/blog/&amp;quot; {{ &amp;quot;blog/&amp;quot; | relLangURL }} → &amp;quot;/hugo/en/blog/&amp;quot;  </description>
@@ -269,40 +269,40 @@ So for a site baseURL set to https://example.com/hugo/ and the current language 
     
     <item>
       <title>absURL</title>
-      <link>levid-gc.github.io/hugoDocs/functions/absurl/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/absurl/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/absurl/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/absurl/</guid>
       <description>Both absURL and relURL consider the configured value of baseURL in your site&amp;rsquo;s config file. Given a baseURL set to https://example.com/hugo/:
 {{ &amp;quot;mystyle.css&amp;quot; | absURL }} → &amp;quot;https://example.com/hugo/mystyle.css&amp;quot; {{ &amp;quot;mystyle.css&amp;quot; | relURL }} → &amp;quot;/hugo/mystyle.css&amp;quot; {{ &amp;quot;http://gohugo.io/&amp;quot; | relURL }} → &amp;quot;http://gohugo.io/&amp;quot; {{ &amp;quot;http://gohugo.io/&amp;quot; | absURL }} → &amp;quot;http://gohugo.io/&amp;quot;  The last two examples may look strange but can be very useful. For example, the following shows how to use absURL in JSON-LD structured data (SEO), where some of your images for a piece of content may or may not be hosted locally:</description>
     </item>
     
     <item>
       <title>after</title>
-      <link>levid-gc.github.io/hugoDocs/functions/after/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/after/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/after/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/after/</guid>
       <description>The following shows after being used in conjunction with the slice function:
 {{ $data := slice &amp;quot;one&amp;quot; &amp;quot;two&amp;quot; &amp;quot;three&amp;quot; &amp;quot;four&amp;quot; }} {{ range after 2 $data }} {{ . }} {{ end }} → [&amp;quot;three&amp;quot;, &amp;quot;four&amp;quot;]  Example of after with first: 2nd&amp;ndash;4th Most Recent Articles You can use after in combination with the first function and Hugo&amp;rsquo;s powerful sorting methods. Let&amp;rsquo;s assume you have a list page at example.</description>
     </item>
     
     <item>
       <title>apply</title>
-      <link>levid-gc.github.io/hugoDocs/functions/apply/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/apply/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/apply/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/apply/</guid>
       <description>apply expects at least three parameters, depending on the function being applied.
  The first parameter is the sequence to operate on. The second parameter is the name of the function as a string, which must be the name of a valid Hugo function. After that, the parameters to the applied function are provided, with the string &amp;quot;.&amp;quot; standing in for each element of the sequence the function is to be applied against.</description>
     </item>
     
     <item>
       <title>base64</title>
-      <link>levid-gc.github.io/hugoDocs/functions/base64/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/base64/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/base64/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/base64/</guid>
       <description>An example:
 base64-input.html&amp;lt;p&amp;gt;Hello world = {{&amp;#34;Hello world&amp;#34;|base64Encode}}&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;SGVsbG8gd29ybGQ = {{&amp;#34;SGVsbG8gd29ybGQ=&amp;#34;|base64Decode}}&amp;lt;/p&amp;gt;base-64-output.html&amp;lt;p&amp;gt;Hello world = SGVsbG8gd29ybGQ=&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;SGVsbG8gd29ybGQ = Hello world&amp;lt;/p&amp;gt;
 You can also pass other data types as arguments to the template function which tries to convert them. The following will convert 42 from an integer to a string because both base64Encode and base64Decode always return a string.
@@ -311,40 +311,40 @@ You can also pass other data types as arguments to the template function which t
     
     <item>
       <title>chomp</title>
-      <link>levid-gc.github.io/hugoDocs/functions/chomp/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/chomp/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/chomp/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/chomp/</guid>
       <description>Useful in a pipeline to remove newlines added by other processing (e.g., markdownify).
 {{chomp &amp;quot;&amp;lt;p&amp;gt;Blockhead&amp;lt;/p&amp;gt;\n&amp;quot;}} → &amp;quot;&amp;lt;p&amp;gt;Blockhead&amp;lt;/p&amp;gt;&amp;quot;  </description>
     </item>
     
     <item>
       <title>countrunes</title>
-      <link>levid-gc.github.io/hugoDocs/functions/countrunes/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/countrunes/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/countrunes/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/countrunes/</guid>
       <description>In contrast with countwords function, which counts every word in a string, the countrunes function determines the number of runes in the content and excludes any whitespace. This has specific utility if you are dealing with CJK-like languages.
 {{ &amp;quot;Hello, 世界&amp;quot; | countrunes }} &amp;lt;!-- outputs a content length of 8 runes. --&amp;gt;  </description>
     </item>
     
     <item>
       <title>countwords</title>
-      <link>levid-gc.github.io/hugoDocs/functions/countwords/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/countwords/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/countwords/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/countwords/</guid>
       <description>The template function works similar to the .WordCount page variable.
 {{ &amp;quot;Hugo is a static site generator.&amp;quot; | countwords }} &amp;lt;!-- outputs a content length of 6 words. --&amp;gt;  </description>
     </item>
     
     <item>
       <title>dateFormat</title>
-      <link>levid-gc.github.io/hugoDocs/functions/dateformat/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/dateformat/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/dateformat/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/dateformat/</guid>
       <description>dateFormat converts the textual representation of the datetime into the specified format or returns it as a Go time.Time type value. These are formatted with the layout string.
 {{ dateFormat &amp;quot;Monday, Jan 2, 2006&amp;quot; &amp;quot;2015-01-21&amp;quot; }} → &amp;quot;Wednesday, Jan 21, 2015&amp;quot;  As of v0.19 of Hugo, the dateFormat function is not supported as part of Hugo&amp;rsquo;s multilingual feature.
 See the Format function for a more complete list of date formatting options in your templates.</description>
@@ -352,10 +352,10 @@ You can also pass other data types as arguments to the template function which t
     
     <item>
       <title>default</title>
-      <link>levid-gc.github.io/hugoDocs/functions/default/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/default/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/default/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/default/</guid>
       <description>default checks whether a given value is set and returns a default value if it is not. Set in this context means different things depending on date type:
  non-zero for numeric types and times non-zero length for strings, arrays, slices, and maps any boolean or struct value non-nil for any other types  default function examples reference the following content page:
 content/posts/default-function-example.md---title: Sane Defaultsseo_title:date: 2017-02-18font:oldparam: The default function helps make your templating DRYer.</description>
@@ -363,10 +363,10 @@ content/posts/default-function-example.md---title: Sane Defaultsseo_title:d
     
     <item>
       <title>delimit</title>
-      <link>levid-gc.github.io/hugoDocs/functions/delimit/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/delimit/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/delimit/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/delimit/</guid>
       <description>delimit called in your template takes the form of
 {{ delimit array/slice/map delimiter optionallastdelimiter}}  delimit loops through any array, slice, or map and returns a string of all the values separated by a delimiter, the second argument in the function call. There is an optional third parameter that lets you choose a different delimiter to go between the last two values in the loop.
 To maintain a consistent output order, maps will be sorted by keys and only a slice of the values will be returned.</description>
@@ -374,10 +374,10 @@ To maintain a consistent output order, maps will be sorted by keys and only a sl
     
     <item>
       <title>dict</title>
-      <link>levid-gc.github.io/hugoDocs/functions/dict/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/dict/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/dict/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/dict/</guid>
       <description>dict is especially useful for passing more than one value to a partial template.
 Example: dict with Embedded SVGs The partial below creates a SVG and expects fill height and width from the caller:
 layouts/partials/svgs/external-links.svg&amp;lt;svg version=&amp;#34;1.1&amp;#34; xmlns=&amp;#34;http://www.w3.org/2000/svg&amp;#34; xmlns:xlink=&amp;#34;http://www.w3.org/1999/xlink&amp;#34; fill=&amp;#34;{{ .fill }}&amp;#34; width=&amp;#34;{{ .size }}&amp;#34; height=&amp;#34;{{ .size }}&amp;#34; viewBox=&amp;#34;0 0 32 32&amp;#34; aria-label=&amp;#34;External Link&amp;#34;&amp;gt;&amp;lt;path d=&amp;#34;M25.152 16.576v5.696q0 2.144-1.504 3.648t-3.648 1.504h-14.848q-2.144 0-3.648-1.504t-1.504-3.648v-14.848q0-2.112 1.504-3.616t3.648-1.536h12.576q0.224 0 0.384 0.16t0.16 0.416v1.152q0 0.256-0.16 0.416t-0.384 0.</description>
@@ -385,19 +385,19 @@ layouts/partials/svgs/external-links.svg&amp;lt;svg version=&amp;#34;1.1&amp;#
     
     <item>
       <title>echoParam</title>
-      <link>levid-gc.github.io/hugoDocs/functions/echoparam/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/echoparam/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/echoparam/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/echoparam/</guid>
       <description>{{ echoParam .Params &amp;quot;project_url&amp;quot; }}  </description>
     </item>
     
     <item>
       <title>emojify</title>
-      <link>levid-gc.github.io/hugoDocs/functions/emojify/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/emojify/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/emojify/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/emojify/</guid>
       <description>emoji runs a passed string through the Emoji emoticons processor.
 See the Emoji cheat sheet for available emoticons.
 The emojify function can be called in your templates but not directly in your content files by default. For emojis in content files, set enableEmoji to true in your site&amp;rsquo;s configuration. Then you can write emoji shorthand directly into your content files; e.g. I :heart: Hugo!:
@@ -406,19 +406,19 @@ I ❤️ Hugo!</description>
     
     <item>
       <title>eq</title>
-      <link>levid-gc.github.io/hugoDocs/functions/eq/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/eq/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/eq/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/eq/</guid>
       <description>{{ if eq .Section &amp;quot;blog&amp;quot; }}current{{ end }}  </description>
     </item>
     
     <item>
       <title>findRE</title>
-      <link>levid-gc.github.io/hugoDocs/functions/findre/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/findre/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/findre/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/findre/</guid>
       <description>By default all matches will be included. The number of matches can be limitted with an optional third parameter.
 The example below returns a list of all second level headers (&amp;lt;h2&amp;gt;) in the content:
 {{ findRE &amp;quot;&amp;lt;h2.*?&amp;gt;(.|\n)*?&amp;lt;/h2&amp;gt;&amp;quot; .Content }}  You can limit the number of matches in the list with a third parameter. The following example shows how to limit the returned value to just one match (or none, if there are no matched substrings):</description>
@@ -426,19 +426,19 @@ The example below returns a list of all second level headers (&amp;lt;h2&amp;gt;
     
     <item>
       <title>first</title>
-      <link>levid-gc.github.io/hugoDocs/functions/first/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/first/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/first/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/first/</guid>
       <description>{{ range first 10 .Pages }} {{ .Render &amp;quot;summary&amp;quot; }} {{ end }}  </description>
     </item>
     
     <item>
       <title>getenv</title>
-      <link>levid-gc.github.io/hugoDocs/functions/getenv/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/getenv/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/getenv/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/getenv/</guid>
       <description>Takes a string containing the name of the variable as input. Returns an empty string if the variable is not set, otherwise returns the value of the variable.
 {{ getenv &amp;quot;HOME&amp;quot; }}  In Unix-like environments, the variable must also be exported in order to be seen by hugo.
 </description>
@@ -446,39 +446,39 @@ The example below returns a list of all second level headers (&amp;lt;h2&amp;gt;
     
     <item>
       <title>hasprefix</title>
-      <link>levid-gc.github.io/hugoDocs/functions/hasprefix/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/hasprefix/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/hasprefix/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/hasprefix/</guid>
       <description> {{ hasPrefix &amp;quot;Hugo&amp;quot; &amp;quot;Hu&amp;quot; }} → true  </description>
     </item>
     
     <item>
       <title>highlight</title>
-      <link>levid-gc.github.io/hugoDocs/functions/highlight/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/highlight/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/highlight/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/highlight/</guid>
       <description>highlight is used in Hugo&amp;rsquo;s built-in highlight shortcode.
 See Installing Hugo for more information on Pygments or Syntax Highlighting for more options on how to add syntax highlighting to your code blocks with Hugo.</description>
     </item>
     
     <item>
       <title>htmlEscape</title>
-      <link>levid-gc.github.io/hugoDocs/functions/htmlescape/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/htmlescape/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/htmlescape/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/htmlescape/</guid>
       <description>In the result &amp;amp; becomes &amp;amp;amp; and so on. It escapes only: &amp;lt;, &amp;gt;, &amp;amp;, &#39; and &amp;quot;.
 {{ htmlEscape &amp;quot;Hugo &amp;amp; Caddy &amp;gt; Wordpress &amp;amp; Apache&amp;quot; }} → &amp;quot;Hugo &amp;amp;amp; Caddy &amp;amp;gt; Wordpress &amp;amp;amp; Apache&amp;quot;  </description>
     </item>
     
     <item>
       <title>htmlUnescape</title>
-      <link>levid-gc.github.io/hugoDocs/functions/htmlunescape/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/htmlunescape/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/htmlunescape/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/htmlunescape/</guid>
       <description>htmlUnescape returns the given string with HTML escape codes un-escaped.
 Remember to pass the output of this to safeHTML if fully un-escaped characters are desired. Otherwise, the output will be escaped again as normal.
 {{ htmlUnescape &amp;quot;Hugo &amp;amp;amp; Caddy &amp;amp;gt; Wordpress &amp;amp;amp; Apache&amp;quot; }} → &amp;quot;Hugo &amp;amp; Caddy &amp;gt; Wordpress &amp;amp; Apache&amp;quot;  </description>
@@ -486,20 +486,20 @@ Remember to pass the output of this to safeHTML if fully un-escaped characters a
     
     <item>
       <title>humanize</title>
-      <link>levid-gc.github.io/hugoDocs/functions/humanize/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/humanize/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/humanize/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/humanize/</guid>
       <description>If the input is either an int64 value or the string representation of an integer, humanize returns the number with the proper ordinal appended.
 {{humanize &amp;quot;my-first-post&amp;quot;}} → &amp;quot;My first post&amp;quot; {{humanize &amp;quot;myCamelPost&amp;quot;}} → &amp;quot;My camel post&amp;quot; {{humanize &amp;quot;52&amp;quot;}} → &amp;quot;52nd&amp;quot; {{humanize 103}} → &amp;quot;103rd&amp;quot;  </description>
     </item>
     
     <item>
       <title>i18n</title>
-      <link>levid-gc.github.io/hugoDocs/functions/i18n/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/i18n/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/i18n/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/i18n/</guid>
       <description>This translates a piece of content based on your i18n/en-US.yaml (and similar) files. You can use the go-i18n tools to manage your translations. The translations can exist in both the theme and at the root of your repository.
 {{ i18n &amp;quot;translation_id&amp;quot; }}  T is an alias to i18n. E.g. {{ T &amp;quot;translation_id&amp;quot; }}.
 For more information about string translations, see Translation of Strings in Multilingual Mode.</description>
@@ -507,10 +507,10 @@ Remember to pass the output of this to safeHTML if fully un-escaped characters a
     
     <item>
       <title>in</title>
-      <link>levid-gc.github.io/hugoDocs/functions/in/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/in/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/in/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/in/</guid>
       <description>The elements supported are strings, integers and floats, although only float64 will match as expected.
 In addition, in can also check if a substring exists in a string.
 {{ if in .Params.tags &amp;quot;Git&amp;quot; }}Follow me on GitHub!{{ end }}  {{ if in &amp;quot;this string contains a substring&amp;quot; &amp;quot;substring&amp;quot; }}Substring found!{{ end }}  </description>
@@ -518,10 +518,10 @@ In addition, in can also check if a substring exists in a string.
     
     <item>
       <title>index</title>
-      <link>levid-gc.github.io/hugoDocs/functions/index-function/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/index-function/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/index-function/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/index-function/</guid>
       <description>From the Godocs:
  Returns the result of indexing its first argument by the following arguments. Thus &amp;ldquo;index x 1 2 3&amp;rdquo; is, in Go syntax, x[1][2][3]. Each indexed item must be a map, slice, or array.
  In Go templates, you can&amp;rsquo;t access array, slice, or map elements directly the same way you would in Go. For example, $.Site.Data.authors[.Params.authorkey] isn&amp;rsquo;t supported syntax.
@@ -530,10 +530,10 @@ Instead, you have to use index, a function that handles the lookup for you.</des
     
     <item>
       <title>int</title>
-      <link>levid-gc.github.io/hugoDocs/functions/int/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/int/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/int/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/int/</guid>
       <description>Useful for turning strings into numbers.
 {{ int &amp;quot;123&amp;quot; }} → 123  If the input string is supposed to represent a decimal number, and if it has leading 0&amp;rsquo;s, then those 0&amp;rsquo;s will have to be removed before passing the string to the int function, else that string will be tried to be parsed as an octal number representation.
 The strings.TrimLeft function can be used for this purpose.</description>
@@ -541,10 +541,10 @@ The strings.TrimLeft function can be used for this purpose.</description>
     
     <item>
       <title>intersect</title>
-      <link>levid-gc.github.io/hugoDocs/functions/intersect/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/intersect/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/intersect/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/intersect/</guid>
       <description>The elements supported are strings, integers, and floats (only float64).
 A useful example of intersect functionality is a &amp;ldquo;related posts&amp;rdquo; block. isset allows us to create a list of links to other posts that have tags that intersect with the tags in the current post.
 The following is an example of a &amp;ldquo;related posts&amp;rdquo; partial template that could be added to a single page template:
@@ -553,29 +553,29 @@ layouts/partials/related-posts.html&amp;lt;ul&amp;gt;{{$page_link:=.Permalink
     
     <item>
       <title>isset</title>
-      <link>levid-gc.github.io/hugoDocs/functions/isset/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/isset/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/isset/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/isset/</guid>
       <description>Takes either a slice, array, or channel and an index or a map and a key as input.
 {{ if isset .Params &amp;quot;project_url&amp;quot; }} {{ index .Params &amp;quot;project_url&amp;quot; }}{{ end }}  All site-level configuration keys are stored as lower case. Therefore, a myParam key-value set in your site configuration file needs to be accessed with {{if isset .Site.Params &amp;quot;myparam&amp;quot;}} and not with {{if isset .Site.Params &amp;quot;myParam&amp;quot;}}. Note that you can still access the same config key with .</description>
     </item>
     
     <item>
       <title>jsonify</title>
-      <link>levid-gc.github.io/hugoDocs/functions/jsonify/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/jsonify/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/jsonify/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/jsonify/</guid>
       <description>{{ dict &amp;quot;title&amp;quot; .Title &amp;quot;content&amp;quot; .Plain | jsonify }}  See also the .PlainWords, .Plain, and .RawContent page variables.</description>
     </item>
     
     <item>
       <title>lang.NumFmt</title>
-      <link>levid-gc.github.io/hugoDocs/functions/numfmt/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/numfmt/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/numfmt/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/numfmt/</guid>
       <description>The default options value is - . ,.
 Numbers greater than or equal to 5 are rounded up. For example, if precision is set to 0, 1.5 becomes 2, and 1.4 becomes 1.
 {{ lang.NumFmt 2 12345.6789 }} → 12,345.68 {{ lang.NumFmt 2 12345.6789 &amp;quot;- , .&amp;quot; }} → 12.345,68 {{ lang.NumFmt 0 -12345.6789 &amp;quot;- . ,&amp;quot; }} → -12,346 {{ lang.NumFmt 6 -12345.6789 &amp;quot;- .&amp;quot; }} → -12345.678900 {{ -98765.</description>
@@ -583,19 +583,19 @@ Numbers greater than or equal to 5 are rounded up. For example, if precision is 
     
     <item>
       <title>last</title>
-      <link>levid-gc.github.io/hugoDocs/functions/last/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/last/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/last/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/last/</guid>
       <description>{{ range last 10 .Pages }} {{ .Render &amp;quot;summary&amp;quot; }} {{ end }}  </description>
     </item>
     
     <item>
       <title>len</title>
-      <link>levid-gc.github.io/hugoDocs/functions/len/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/len/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/len/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/len/</guid>
       <description>len is a built-in function in Go that returns the length of a variable according to its type. From the Go documentation:
  Array: the number of elements in v.
 Pointer to array: the number of elements in *v (even if v is nil).
@@ -606,38 +606,38 @@ Channel: the number of elements queued (unread) in the channel buffer; if v is n
     
     <item>
       <title>lower</title>
-      <link>levid-gc.github.io/hugoDocs/functions/lower/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/lower/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/lower/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/lower/</guid>
       <description>{{lower &amp;quot;BatMan&amp;quot;}} → &amp;quot;batman&amp;quot;  </description>
     </item>
     
     <item>
       <title>markdownify</title>
-      <link>levid-gc.github.io/hugoDocs/functions/markdownify/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/markdownify/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/markdownify/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/markdownify/</guid>
       <description>{{ .Title | markdownify }}  </description>
     </item>
     
     <item>
       <title>md5</title>
-      <link>levid-gc.github.io/hugoDocs/functions/md5/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/md5/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/md5/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/md5/</guid>
       <description>{{ md5 &amp;quot;Hello world, gophers!&amp;quot; }} &amp;lt;!-- returns the string &amp;quot;b3029f756f98f79e7f1b7f1d1f0dd53b&amp;quot; --&amp;gt;  This can be useful if you want to use Gravatar for generating a unique avatar:
 &amp;lt;img src=&amp;quot;https://www.gravatar.com/avatar/{{ md5 &amp;quot;your@email.com&amp;quot; }}?s=100&amp;amp;d=identicon&amp;quot;&amp;gt;  </description>
     </item>
     
     <item>
       <title>now</title>
-      <link>levid-gc.github.io/hugoDocs/functions/now/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/now/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/now/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/now/</guid>
       <description>See time.Time.
 For example, building your site on June 24, 2017, with the following templating:
 &amp;lt;div&amp;gt; &amp;lt;small&amp;gt;&amp;amp;copy; {{ now.Format &amp;quot;2006&amp;quot;}}&amp;lt;/small&amp;gt; &amp;lt;/div&amp;gt;  would produce the following:
@@ -647,68 +647,68 @@ For example, building your site on June 24, 2017, with the following templating:
     
     <item>
       <title>partialCached</title>
-      <link>levid-gc.github.io/hugoDocs/functions/partialcached/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/partialcached/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/partialcached/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/partialcached/</guid>
       <description>The partialCached template function can offer significant performance gains for complex templates that don&amp;rsquo;t need to be re-rendered on every invocation. Here is the simplest usage:
 {{ partialCached &amp;quot;footer.html&amp;quot; . }}  You can also pass additional parameters to partialCached to create variants of the cached partial. For example, if you have a complex partial that should be identical when rendered for pages within the same section, you could use a variant based upon section so that the partial is only rendered once per section:</description>
     </item>
     
     <item>
       <title>plainify</title>
-      <link>levid-gc.github.io/hugoDocs/functions/plainify/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/plainify/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/plainify/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/plainify/</guid>
       <description>{{ &amp;quot;&amp;lt;b&amp;gt;BatMan&amp;lt;/b&amp;gt;&amp;quot; | plainify }} → &amp;quot;BatMan&amp;quot;  See also the .PlainWords, .Plain, and .RawContent page variables.</description>
     </item>
     
     <item>
       <title>pluralize</title>
-      <link>levid-gc.github.io/hugoDocs/functions/pluralize/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/pluralize/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/pluralize/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/pluralize/</guid>
       <description>{{ &amp;quot;cat&amp;quot; | pluralize }} → &amp;quot;cats&amp;quot;  </description>
     </item>
     
     <item>
       <title>print</title>
-      <link>levid-gc.github.io/hugoDocs/functions/print/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/print/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/print/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/print/</guid>
       <description>See the go doc for additional information.
 {{ print &amp;quot;foo&amp;quot; }} → &amp;quot;foo&amp;quot; {{ print (slice 1 2 3) }} → [1 2 3]  </description>
     </item>
     
     <item>
       <title>printf</title>
-      <link>levid-gc.github.io/hugoDocs/functions/printf/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/printf/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/printf/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/printf/</guid>
       <description>See the go doc for additional information.
 {{ i18n ( printf &amp;quot;combined_%s&amp;quot; $var ) }}  {{ printf &amp;quot;formatted %.2f&amp;quot; 3.1416 }}  </description>
     </item>
     
     <item>
       <title>println</title>
-      <link>levid-gc.github.io/hugoDocs/functions/println/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/println/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/println/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/println/</guid>
       <description>See the go doc for additional information. \n denotes the linebreak but isn&amp;rsquo;t printed in the templates as seen below:
 {{ println &amp;quot;foo&amp;quot; }} → &amp;quot;foo\n&amp;quot;  </description>
     </item>
     
     <item>
       <title>querify</title>
-      <link>levid-gc.github.io/hugoDocs/functions/querify/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/querify/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/querify/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/querify/</guid>
       <description>querify takes a set of key-value pairs and returns a query string that can be appended to a URL. E.g.
 The following example creates a link to a search results page on Google.
 &amp;lt;a href=&amp;quot;https://www.google.com?{{ (querify &amp;quot;q&amp;quot; &amp;quot;test&amp;quot; &amp;quot;page&amp;quot; 3) | safeURL }}&amp;quot;&amp;gt;Search&amp;lt;/a&amp;gt;  This example renders the following HTML:
@@ -717,30 +717,30 @@ The following example creates a link to a search results page on Google.
     
     <item>
       <title>range</title>
-      <link>levid-gc.github.io/hugoDocs/functions/range/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/range/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/range/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/range/</guid>
       <description>Just like in the Go programming language, Go and Hugo templates make heavy use of range to iterate over a map, array or slice.
 range is fundamental to templating in Hugo. (See the Introduction to Hugo Templates for more examples.</description>
     </item>
     
     <item>
       <title>readDir</title>
-      <link>levid-gc.github.io/hugoDocs/functions/readdir/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/readdir/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/readdir/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/readdir/</guid>
       <description>If your current project working directory has a single file named README.txt:
 {{ range (readDir &amp;quot;.&amp;quot;) }}{{ .Name }}{{ end }} → &amp;quot;README.txt&amp;quot;  For more information on using readDir and readFile in your templates, see Local File Templates.</description>
     </item>
     
     <item>
       <title>readFile</title>
-      <link>levid-gc.github.io/hugoDocs/functions/readfile/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/readfile/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/readfile/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/readfile/</guid>
       <description>Note that the filename must be relative to the current project working directory, or the project&amp;rsquo;s /content folder.
 So, if you have a file with the name README.txt in the root of your project with the content Hugo Rocks!:
 {{readFile &amp;quot;README.txt&amp;quot;}} → &amp;quot;Hugo Rocks!&amp;quot;  If you receive a &amp;ldquo;file doesn&amp;rsquo;t exist&amp;rdquo; error with a path listed, do take note that the path is the last one checked by the function, and may not accurately reflect your target.</description>
@@ -748,10 +748,10 @@ So, if you have a file with the name README.txt in the root of your project with
     
     <item>
       <title>ref</title>
-      <link>levid-gc.github.io/hugoDocs/functions/ref/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/ref/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/ref/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/ref/</guid>
       <description>ref and relref look up a content page by logical name (ref) or relative path (relref) to return the permalink:
 {{ ref . &amp;quot;about.md&amp;quot; }}  ref looks up Hugo &amp;ldquo;Regular Pages&amp;rdquo; only. It can&amp;rsquo;t be used for the homepage, section pages, etc.
 These functions are used in two of Hugo&amp;rsquo;s built-in shortcodes. You can see basic usage examples of both ref and relref in the shortcode documentation.</description>
@@ -759,10 +759,10 @@ So, if you have a file with the name README.txt in the root of your project with
     
     <item>
       <title>relLangURL</title>
-      <link>levid-gc.github.io/hugoDocs/functions/rellangurl/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/rellangurl/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/rellangurl/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/rellangurl/</guid>
       <description>absLangURL and relLangURL functions are similar to their absURL and relURL relatives but will add the correct language prefix when the site is configured with more than one language. (See Configuring Multilingual.)
 So for a site baseURL set to https://example.com/hugo/ and the current language is en:
 {{ &amp;quot;blog/&amp;quot; | absLangURL }} → &amp;quot;https://example.com/hugo/en/blog/&amp;quot; {{ &amp;quot;blog/&amp;quot; | relLangURL }} → &amp;quot;/hugo/en/blog/&amp;quot;  </description>
@@ -770,20 +770,20 @@ So for a site baseURL set to https://example.com/hugo/ and the current language 
     
     <item>
       <title>relURL</title>
-      <link>levid-gc.github.io/hugoDocs/functions/relurl/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/relurl/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/relurl/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/relurl/</guid>
       <description>Both absURL and relURL consider the configured value of baseURL in your site&amp;rsquo;s config file. Given a baseURL set to https://example.com/hugo/:
 {{ &amp;quot;mystyle.css&amp;quot; | absURL }} → &amp;quot;https://example.com/hugo/mystyle.css&amp;quot; {{ &amp;quot;mystyle.css&amp;quot; | relURL }} → &amp;quot;/hugo/mystyle.css&amp;quot; {{ &amp;quot;http://gohugo.io/&amp;quot; | relURL }} → &amp;quot;http://gohugo.io/&amp;quot; {{ &amp;quot;http://gohugo.io/&amp;quot; | absURL }} → &amp;quot;http://gohugo.io/&amp;quot;  The last two examples may look strange but can be very useful. For example, the following shows how to use absURL in JSON-LD structured data for SEO where some of your images for a piece of content may or may not be hosted locally:</description>
     </item>
     
     <item>
       <title>relref</title>
-      <link>levid-gc.github.io/hugoDocs/functions/relref/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/relref/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/relref/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/relref/</guid>
       <description>ref and relref look up a content page by logical name (ref) or relative path (relref) to return the permalink:
 {{ relref . &amp;quot;about.md&amp;quot; }}  relref looks up Hugo &amp;ldquo;Regular Pages&amp;rdquo; only. It can&amp;rsquo;t be used for the homepage, section pages, etc.
 These functions are used in two of Hugo&amp;rsquo;s built-in shortcodes. You can see basic usage examples of both ref and relref in the shortcode documentation.</description>
@@ -791,10 +791,10 @@ So for a site baseURL set to https://example.com/hugo/ and the current language 
     
     <item>
       <title>render</title>
-      <link>levid-gc.github.io/hugoDocs/functions/render/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/render/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/render/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/render/</guid>
       <description>The view is an alternative layout and should be a file name that points to a template in one of the locations specified in the documentation for Content Views.
 This function is only available when applied to a single piece of content within a list context.
 This example could render a piece of content using the content view located at /layouts/_default/summary.html:
@@ -803,29 +803,29 @@ This example could render a piece of content using the content view located at /
     
     <item>
       <title>replace</title>
-      <link>levid-gc.github.io/hugoDocs/functions/replace/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/replace/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/replace/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/replace/</guid>
       <description>`{{ replace &amp;quot;Batman and Robin&amp;quot; &amp;quot;Robin&amp;quot; &amp;quot;Catwoman&amp;quot; }}` → &amp;quot;Batman and Catwoman&amp;quot;  </description>
     </item>
     
     <item>
       <title>replaceRE</title>
-      <link>levid-gc.github.io/hugoDocs/functions/replacere/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/replacere/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/replacere/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/replacere/</guid>
       <description>{{ replaceRE &amp;quot;^https?://([^/]+).*&amp;quot; &amp;quot;$1&amp;quot; &amp;quot;http://gohugo.io/docs&amp;quot; }}` → &amp;quot;gohugo.io&amp;quot; {{ &amp;quot;http://gohugo.io/docs&amp;quot; | replaceRE &amp;quot;^https?://([^/]+).*&amp;quot; &amp;quot;$1&amp;quot; }}` → &amp;quot;gohugo.io&amp;quot;  Hugo uses Go&amp;rsquo;s Regular Expression package, which is the same general syntax used by Perl, Python, and other languages but with a few minor differences for those coming from a background in PCRE. For a full syntax listing, see the GitHub wiki for re2.
 If you are just learning RegEx, or at least Go&amp;rsquo;s flavor, you can practice pattern matching in the browser at https://regex101.</description>
     </item>
     
     <item>
       <title>safeCSS</title>
-      <link>levid-gc.github.io/hugoDocs/functions/safecss/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/safecss/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/safecss/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/safecss/</guid>
       <description>In this context, safe means CSS content that matches any of the following:
  The CSS3 stylesheet production, such as p { color: purple }. The CSS3 rule production, such as a[href=~&amp;quot;https:&amp;quot;].foo#bar. CSS3 declaration productions, such as color: red; margin: 2px. The CSS3 value production, such as rgba(0, 0, 255, 127).  Example: Given style = &amp;quot;color: red;&amp;quot; defined in the front matter of your .md file:
  &amp;lt;p style=&amp;quot;{{ .</description>
@@ -833,10 +833,10 @@ If you are just learning RegEx, or at least Go&amp;rsquo;s flavor, you can pract
     
     <item>
       <title>safeHTML</title>
-      <link>levid-gc.github.io/hugoDocs/functions/safehtml/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/safehtml/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/safehtml/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/safehtml/</guid>
       <description>It should not be used for HTML from a third-party, or HTML with unclosed tags or comments.
 Given a site-wide config.toml with the following copyright value:
 copyright = &amp;quot;© 2015 Jane Doe. &amp;lt;a href=\&amp;quot;http://creativecommons.org/licenses/by/4.0/\&amp;quot;&amp;gt;Some rights reserved&amp;lt;/a&amp;gt;.&amp;quot;  {{ .Site.Copyright | safeHTML }} in a template would then output:
@@ -845,20 +845,20 @@ copyright = &amp;quot;© 2015 Jane Doe. &amp;lt;a href=\&amp;quot;http://creativ
     
     <item>
       <title>safeHTMLAttr</title>
-      <link>levid-gc.github.io/hugoDocs/functions/safehtmlattr/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/safehtmlattr/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/safehtmlattr/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/safehtmlattr/</guid>
       <description>Example: Given a site-wide config.toml that contains this menu entry:
 [[menu.main]] name = &amp;quot;IRC: #golang at freenode&amp;quot; url = &amp;quot;irc://irc.freenode.net/#golang&amp;quot;   &amp;lt;a href=&amp;quot;{{ .URL }}&amp;quot;&amp;gt; &amp;rarr; &amp;lt;a href=&amp;quot;#ZgotmplZ&amp;quot;&amp;gt; &amp;lt;a {{ printf &amp;quot;href=%q&amp;quot; .URL | safeHTMLAttr }}&amp;gt; &amp;rarr; &amp;lt;a href=&amp;quot;irc://irc.freenode.net/#golang&amp;quot;&amp;gt;  </description>
     </item>
     
     <item>
       <title>safeJS</title>
-      <link>levid-gc.github.io/hugoDocs/functions/safejs/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/safejs/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/safejs/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/safejs/</guid>
       <description>In this context, safe means the string encapsulates a known safe EcmaScript5 Expression (e.g., (x + y * z())).
 Template authors are responsible for ensuring that typed expressions do not break the intended precedence and that there is no statement/expression ambiguity as when passing an expression like { foo:bar() }\n[&#39;foo&#39;](), which is both a valid expression and a valid program with a very different meaning.
 Example: Given hash = &amp;quot;619c16f&amp;quot; defined in the front matter of your .</description>
@@ -866,20 +866,20 @@ Example: Given hash = &amp;quot;619c16f&amp;quot; defined in the front matter of
     
     <item>
       <title>safeURL</title>
-      <link>levid-gc.github.io/hugoDocs/functions/safeurl/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/safeurl/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/safeurl/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/safeurl/</guid>
       <description>safeURL declares the provided string as a &amp;ldquo;safe&amp;rdquo; URL or URL substring (see RFC 3986). A URL like javascript:checkThatFormNotEditedBeforeLeavingPage() from a trusted source should go in the page, but by default dynamic javascript: URLs are filtered out since they are a frequently exploited injection vector.
 Without safeURL, only the URI schemes http:, https: and mailto: are considered safe by Go templates. If any other URI schemes (e.g., irc: and javascript:) are detected, the whole URL will be replaced with #ZgotmplZ.</description>
     </item>
     
     <item>
       <title>seq</title>
-      <link>levid-gc.github.io/hugoDocs/functions/seq/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/seq/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/seq/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/seq/</guid>
       <description>It&amp;rsquo;s named and used in the model of GNU&amp;rsquo;s seq.
 3 → 1, 2, 3 1 2 4 → 1, 3 -3 → -1, -2, -3 1 4 → 1, 2, 3, 4 1 -2 → 1, 0, -1, -2  Example: seq with range and after You can use seq in combination with range and after. The following will return 19 elements:
 {{ range after 1 (seq 20)}} {{ end }}  However, when ranging with an index, the following may be less confusing in that $indexStartingAt1 and $num will return 1,2,3 .</description>
@@ -887,10 +887,10 @@ Without safeURL, only the URI schemes http:, https: and mailto: are considered s
     
     <item>
       <title>sha</title>
-      <link>levid-gc.github.io/hugoDocs/functions/sha/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/sha/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/sha/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/sha/</guid>
       <description>sha1 hashes the given input and returns its SHA1 checksum.
 {{ sha1 &amp;quot;Hello world, gophers!&amp;quot; }} &amp;lt;!-- returns the string &amp;quot;c8b5b0e33d408246e30f53e32b8f7627a7a649d4&amp;quot; --&amp;gt;  sha256 hashes the given input and returns its SHA256 checksum.
 {{ sha256 &amp;quot;Hello world, gophers!&amp;quot; }} &amp;lt;!-- returns the string &amp;quot;6ec43b78da9669f50e4e422575c54bf87536954ccd58280219c393f2ce352b46&amp;quot; --&amp;gt;  </description>
@@ -898,10 +898,10 @@ Without safeURL, only the URI schemes http:, https: and mailto: are considered s
     
     <item>
       <title>shuffle</title>
-      <link>levid-gc.github.io/hugoDocs/functions/shuffle/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/shuffle/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/shuffle/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/shuffle/</guid>
       <description>shuffle-input.html&amp;lt;!-- Shuffled sequence = --&amp;gt;&amp;lt;div&amp;gt;{{shuffle(seq15)}}&amp;lt;/div&amp;gt;&amp;lt;!-- Shuffled slice = --&amp;gt;&amp;lt;div&amp;gt;{{shuffle(slice&amp;#34;foo&amp;#34;&amp;#34;bar&amp;#34;&amp;#34;buzz&amp;#34;)}}&amp;lt;/div&amp;gt;This example would return the following:
 shuffle-output.html&amp;lt;!-- Shuffled sequence = --&amp;gt;&amp;lt;div&amp;gt;2 5 3 1 4&amp;lt;/div&amp;gt;&amp;lt;!-- Shuffled slice = --&amp;gt;&amp;lt;div&amp;gt;buzz foo bar&amp;lt;/div&amp;gt;
 This example also makes use of the slice and seq functions.</description>
@@ -909,68 +909,68 @@ This example also makes use of the slice and seq functions.</description>
     
     <item>
       <title>singularize</title>
-      <link>levid-gc.github.io/hugoDocs/functions/singularize/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/singularize/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/singularize/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/singularize/</guid>
       <description>{{ &amp;quot;cats&amp;quot; | singularize }} → &amp;ldquo;cat&amp;rdquo;
 See also the .Data.Singular taxonomy variable for singularizing taxonomy names.</description>
     </item>
     
     <item>
       <title>slice</title>
-      <link>levid-gc.github.io/hugoDocs/functions/slice/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/slice/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/slice/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/slice/</guid>
       <description>One use case is the concatenation of elements in combination with the delimit function:
 slice.html{{delimit(slice&amp;#34;foo&amp;#34;&amp;#34;bar&amp;#34;&amp;#34;buzz&amp;#34;)&amp;#34;, &amp;#34;}}&amp;lt;!-- returns the string &amp;#34;foo, bar, buzz&amp;#34; --&amp;gt;</description>
     </item>
     
     <item>
       <title>slicestr</title>
-      <link>levid-gc.github.io/hugoDocs/functions/slicestr/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/slicestr/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/slicestr/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/slicestr/</guid>
       <description>For example, 1 and 4 creates a slice including elements 1 through 3. The end index can be omitted; it defaults to the string&amp;rsquo;s length.
  {{slicestr &amp;quot;BatMan&amp;quot; 3}} → &amp;ldquo;Man&amp;rdquo; {{slicestr &amp;quot;BatMan&amp;quot; 0 3}} → &amp;ldquo;Bat&amp;rdquo;  </description>
     </item>
     
     <item>
       <title>sort</title>
-      <link>levid-gc.github.io/hugoDocs/functions/sort/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/sort/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/sort/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/sort/</guid>
       <description>A sorted array of map values will be returned with the keys eliminated. There are two optional arguments: sortByField and sortAsc. If left blank, sort will sort by keys (for maps) in ascending order as its default behavior.
 +++ keywords: [ &amp;quot;tag3&amp;quot;, &amp;quot;tag1&amp;quot;, &amp;quot;tag2&amp;quot; ] +++ // Site config +++ [params.authors] [params.authors.Derek] &amp;quot;firstName&amp;quot; = &amp;quot;Derek&amp;quot; &amp;quot;lastName&amp;quot; = &amp;quot;Perkins&amp;quot; [params.authors.Joe] &amp;quot;firstName&amp;quot; = &amp;quot;Joe&amp;quot; &amp;quot;lastName&amp;quot; = &amp;quot;Bergevin&amp;quot; [params.authors.Tanner] &amp;quot;firstName&amp;quot; = &amp;quot;Tanner&amp;quot; &amp;quot;lastName&amp;quot; = &amp;quot;Linsley&amp;quot; +++  // Use default sort options - sort by key / ascending Tags: {{ range sort .</description>
     </item>
     
     <item>
       <title>split</title>
-      <link>levid-gc.github.io/hugoDocs/functions/split/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/split/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/split/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/split/</guid>
       <description> {{split &amp;quot;tag1,tag2,tag3&amp;quot; &amp;quot;,&amp;quot; }} → [&amp;ldquo;tag1&amp;rdquo; &amp;ldquo;tag2&amp;rdquo; &amp;ldquo;tag3&amp;rdquo;]  </description>
     </item>
     
     <item>
       <title>string</title>
-      <link>levid-gc.github.io/hugoDocs/functions/string/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/string/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/string/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/string/</guid>
       <description> {{string &amp;quot;BatMan&amp;quot;}} → &amp;ldquo;BatMan&amp;rdquo;  </description>
     </item>
     
     <item>
       <title>strings.TrimLeft</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.trimleft/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.trimleft/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.trimleft/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.trimleft/</guid>
       <description>Given the string &amp;quot;abba&amp;quot;, leading &amp;quot;a&amp;quot;&amp;rsquo;s can be removed a follows:
 {{ strings.TrimLeft &amp;quot;abba&amp;quot; &amp;quot;a&amp;quot; }} → &amp;quot;bba&amp;quot;  Numbers can be handled as well:
 {{ strings.TrimLeft 1221 &amp;quot;12&amp;quot; }} → &amp;quot;&amp;quot;  </description>
@@ -978,20 +978,20 @@ slice.html{{delimit(slice&amp;#34;foo&amp;#34;&amp;#34;bar&amp;#34;&amp;#34;bu
     
     <item>
       <title>strings.TrimPrefix</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</guid>
       <description>Given the string &amp;quot;aabbaa&amp;quot;, the specified prefix is only removed if &amp;quot;aabbaa&amp;quot; starts with it:
 {{ strings.TrimPrefix &amp;quot;a&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;abbaa&amp;quot; {{ strings.TrimPrefix &amp;quot;aa&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;bbaa&amp;quot; {{ strings.TrimPrefix &amp;quot;aaa&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;aabbaa&amp;quot;  </description>
     </item>
     
     <item>
       <title>strings.TrimRight</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.trimright/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.trimright/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.trimright/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.trimright/</guid>
       <description>Given the string &amp;quot;abba&amp;quot;, trailing &amp;quot;a&amp;quot;&amp;rsquo;s can be removed a follows:
 {{ strings.TrimRight &amp;quot;abba&amp;quot; &amp;quot;a&amp;quot; }} → &amp;quot;abb&amp;quot;  Numbers can be handled as well:
 {{ strings.TrimRight 1221 &amp;quot;12&amp;quot; }} → &amp;quot;&amp;quot;  </description>
@@ -999,20 +999,20 @@ slice.html{{delimit(slice&amp;#34;foo&amp;#34;&amp;#34;bar&amp;#34;&amp;#34;bu
     
     <item>
       <title>strings.TrimSuffix</title>
-      <link>levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</guid>
       <description>Given the string &amp;quot;aabbaa&amp;quot;, the specified suffix is only removed if &amp;quot;aabbaa&amp;quot; ends with it:
 {{ strings.TrimSuffix &amp;quot;a&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;aabba&amp;quot; {{ strings.TrimSuffix &amp;quot;aa&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;aabb&amp;quot; {{ strings.TrimSuffix &amp;quot;aaa&amp;quot; &amp;quot;aabbaa&amp;quot; }} → &amp;quot;aabbaa&amp;quot;  </description>
     </item>
     
     <item>
       <title>substr</title>
-      <link>levid-gc.github.io/hugoDocs/functions/substr/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/substr/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/substr/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/substr/</guid>
       <description>It normally takes two parameters: start and length. It can also take one parameter: start, i.e. length is omitted, in which case the substring starting from start until the end of the string will be returned.
 To extract characters from the end of the string, use a negative start number.
 In addition, borrowing from the extended behavior described at http://php.net substr, if length is given and is negative, that number of characters will be omitted from the end of string.</description>
@@ -1020,30 +1020,30 @@ In addition, borrowing from the extended behavior described at http://php.net su
     
     <item>
       <title>time</title>
-      <link>levid-gc.github.io/hugoDocs/functions/time/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/time/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/time/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/time/</guid>
       <description>time converts a timestamp string into a time.Time structure so you can access its fields:
 {{ time &amp;quot;2016-05-28&amp;quot; }} → &amp;quot;2016-05-28T00:00:00Z&amp;quot; {{ (time &amp;quot;2016-05-28&amp;quot;).YearDay }} → 149 {{ mul 1000 (time &amp;quot;2016-05-28T10:30:00.00+10:00&amp;quot;).Unix }} → 1464395400000, or Unix time in milliseconds  Example: Using time to get Month Index The following example takes a UNIX timestamp&amp;mdash;set as utimestamp: &amp;quot;1489276800&amp;quot; in a content&amp;rsquo;s front matter&amp;mdash;converts the timestamp (string) to an integer using the int function, and then uses printf to convert the Month property of time into an index.</description>
     </item>
     
     <item>
       <title>title</title>
-      <link>levid-gc.github.io/hugoDocs/functions/title/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/title/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/title/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/title/</guid>
       <description>{{title &amp;quot;BatMan&amp;quot;}}` → &amp;quot;Batman&amp;quot;  Can be combined in pipes. In the following snippet, the link text is cleaned up using humanize to remove dashes and title to convert the value of $name to Initial Caps.
 {{ range $name, $items := .Site.Taxonomies.categories }} &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{ printf &amp;quot;%s/%s&amp;quot; &amp;quot;categories&amp;quot; ($name | urlize | lower) | absURL }}&amp;quot;&amp;gt;{{ $name | humanize | title }} ({{ len $items }})&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; {{ end }}  </description>
     </item>
     
     <item>
       <title>trim</title>
-      <link>levid-gc.github.io/hugoDocs/functions/trim/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/trim/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/trim/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/trim/</guid>
       <description>{{ trim &amp;quot;++Batman--&amp;quot; &amp;quot;+-&amp;quot; }} → &amp;quot;Batman&amp;quot;  trim requires the second argument, which tells the function specifically what to remove from the first argument. There is no default value for the second argument, so the following usage will not work:
 {{ trim .Inner}}  Instead, the following example tells trim to remove extra new lines from the content contained in the shortcode .Inner variable:
 {{ trim .Inner &amp;quot;\n&amp;quot; }}  Go templates also provide a simple method for trimming whitespace from either side of a Go tag by including a hyphen (-).</description>
@@ -1051,49 +1051,49 @@ In addition, borrowing from the extended behavior described at http://php.net su
     
     <item>
       <title>truncate</title>
-      <link>levid-gc.github.io/hugoDocs/functions/truncate/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/truncate/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/truncate/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/truncate/</guid>
       <description>Since Go templates are HTML-aware, truncate will intelligently handle normal strings vs HTML strings:
 {{ &amp;quot;&amp;lt;em&amp;gt;Keep my HTML&amp;lt;/em&amp;gt;&amp;quot; | safeHTML | truncate 10 }}` → &amp;lt;em&amp;gt;Keep my …&amp;lt;/em&amp;gt;`  If you have a raw string that contains HTML tags you want to remain treated as HTML, you will need to convert the string to HTML using the safeHTML template function before sending the value to truncate. Otherwise, the HTML tags will be escaped when passed through the truncate function.</description>
     </item>
     
     <item>
       <title>union</title>
-      <link>levid-gc.github.io/hugoDocs/functions/union/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/union/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/union/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/union/</guid>
       <description>Given two arrays (or slices) A and B, this function will return a new array that contains the elements or objects that belong to either A or to B or to both. The elements supported are strings, integers, and floats (only float64).
 {{ union (slice 1 2 3) (slice 3 4 5) }} &amp;lt;!-- returns [1 2 3 4 5] --&amp;gt; {{ union (slice 1 2 3) nil }} &amp;lt;!-- returns [1 2 3] --&amp;gt; {{ union nil (slice 1 2 3) }} &amp;lt;!</description>
     </item>
     
     <item>
       <title>uniq</title>
-      <link>levid-gc.github.io/hugoDocs/functions/uniq/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/uniq/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/uniq/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/uniq/</guid>
       <description>{{ uniq (slice 1 2 3 2) }} {{ slice 1 2 3 2 | uniq }} &amp;lt;!-- both return [1 2 3] --&amp;gt;  </description>
     </item>
     
     <item>
       <title>upper</title>
-      <link>levid-gc.github.io/hugoDocs/functions/upper/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/upper/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/upper/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/upper/</guid>
       <description>Note that upper can be applied in your templates in more than one way:
 {{ upper &amp;quot;BatMan&amp;quot; }} → &amp;quot;BATMAN&amp;quot; {{ &amp;quot;BatMan&amp;quot; | upper }} → &amp;quot;BATMAN&amp;quot;  </description>
     </item>
     
     <item>
       <title>urlize</title>
-      <link>levid-gc.github.io/hugoDocs/functions/urlize/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/urlize/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/urlize/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/urlize/</guid>
       <description>The following examples pull from a content file with the following front matter:
 content/blog/greatest-city.md+++title = &amp;#34;The World&amp;#39;s Greatest City&amp;#34;location = &amp;#34;Chicago IL&amp;#34;tags = [&amp;#34;pizza&amp;#34;,&amp;#34;beer&amp;#34;,&amp;#34;hot dogs&amp;#34;]+++The following might be used as a partial within a single page template:
 layouts/partials/content-header.html&amp;lt;header&amp;gt;&amp;lt;h1&amp;gt;{{.Title}}&amp;lt;/h1&amp;gt;{{with.Params.location}}&amp;lt;div&amp;gt;&amp;lt;a href=&amp;#34;/locations/{{.|urlize}}&amp;#34;&amp;gt;{{.}}&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;{{end}}&amp;lt;!-- Creates a list of tags for the content and links to each of their pages --&amp;gt;{{with.</description>
@@ -1101,10 +1101,10 @@ content/blog/greatest-city.md+++title = &amp;#34;The World&amp;#39;s Greatest 
     
     <item>
       <title>where</title>
-      <link>levid-gc.github.io/hugoDocs/functions/where/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/where/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/where/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/where/</guid>
       <description>where filters an array to only the elements containing a matching value for a given field.
 {{rangewhere.Pages&amp;#34;Section&amp;#34;&amp;#34;post&amp;#34;}} {{.Content}} {{end}} It can be used by dot-chaining the second argument to refer to a nested element of a value.
 +++ series: golang +++  {{rangewhere.Site.Pages&amp;#34;Params.series&amp;#34;&amp;#34;golang&amp;#34;}} {{.Content}} {{end}} It can also be used with the logical operators !=, &amp;gt;=, in, etc. Without an operator, where compares a given field with a matching value equivalent to =.</description>
@@ -1112,10 +1112,10 @@ content/blog/greatest-city.md+++title = &amp;#34;The World&amp;#39;s Greatest 
     
     <item>
       <title>with</title>
-      <link>levid-gc.github.io/hugoDocs/functions/with/</link>
+      <link>https://levid-gc.github.io/hugoDocs/functions/with/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/functions/with/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/functions/with/</guid>
       <description>An alternative way of writing an if statement and then referencing the same value is to use with instead. with rebinds the context (.) within its scope and skips the block if the variable is absent or unset.
 The following example checks for a user-defined site variable called twitteruser. If the key-value is not set, the following will render nothing:
 layouts/partials/twitter.html{{with.Site.Params.twitteruser}}&amp;lt;span class=&amp;#34;twitter&amp;#34;&amp;gt;&amp;lt;a href=&amp;#34;https://twitter.com/{{.}}&amp;#34; rel=&amp;#34;author&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;/images/twitter.png&amp;#34; width=&amp;#34;48&amp;#34; height=&amp;#34;48&amp;#34; title=&amp;#34;Twitter: {{.</description>

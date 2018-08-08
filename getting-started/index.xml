@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Started on Hugo</title>
-    <link>levid-gc.github.io/hugoDocs/getting-started/</link>
+    <link>https://levid-gc.github.io/hugoDocs/getting-started/</link>
     <description>Recent content in Get Started on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="levid-gc.github.io/hugoDocs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://levid-gc.github.io/hugoDocs/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Start</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/quick-start/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/quick-start/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/quick-start/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/quick-start/</guid>
       <description>This quick start uses macOS in the examples. For instructions about how to install Hugo on other operating systems, see install.
 You also need Git installed to run this tutorial.
 Step 1: Install Hugo Homebrew, a package manager for macOS, can be installed from brew.sh. See install if you are running Windows etc.
@@ -26,10 +26,10 @@ hugo version Step 2: Create a New Site hugo new site quickstart The above will 
     
     <item>
       <title>Install Hugo</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/installing/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/installing/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/installing/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/installing/</guid>
       <description>There is lots of talk about &amp;ldquo;Hugo being written in Go&amp;rdquo;, but you don&amp;rsquo;t need to install Go to enjoy Hugo. Just grab a precompiled binary!
 Hugo is written in Go with support for multiple platforms. The latest release can be found at Hugo Releases.
 Hugo currently provides pre-built binaries for the following:
@@ -38,10 +38,10 @@ Hugo currently provides pre-built binaries for the following:
     
     <item>
       <title>Basic Usage</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/usage/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/usage/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/usage/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/usage/</guid>
       <description>The following is a description of the most common commands you will use while developing your Hugo project. See the Command Line Reference for a comprehensive view of Hugo&amp;rsquo;s CLI.
 Test Installation Once you have installed Hugo, make sure it is in your PATH. You can test that Hugo has been installed correctly via the help command:
 hugo help  The output you see in your console should be similar to the following:</description>
@@ -49,10 +49,10 @@ hugo help  The output you see in your console should be similar to the following
     
     <item>
       <title>Directory Structure</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/directory-structure/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/directory-structure/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/directory-structure/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/directory-structure/</guid>
       <description>New Site Scaffolding   Running the hugo new site generator from the command line will create a directory structure with the following elements:
 . ├── archetypes ├── config.toml ├── content ├── data ├── layouts ├── static └── themes  Directory Structure Explained The following is a high-level overview of each of the directories with links to each of their respective sections within the Hugo docs.
  archetypes You can create new content files in Hugo using the hugo new command.</description>
@@ -60,19 +60,19 @@ hugo help  The output you see in your console should be similar to the following
     
     <item>
       <title>Code Toggle</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/code-toggle/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/code-toggle/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/code-toggle/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/code-toggle/</guid>
       <description>The Config Toggler! This is an example for the Config Toggle shortcode. Its purpose is to let users choose a Config language by clicking on its corresponding tab. Upon doing so, every Code toggler on the page will be switched to the target language. Also, target language will be saved in user&amp;rsquo;s localStorage so when they go to a different pages, Code Toggler display their last &amp;ldquo;toggled&amp;rdquo; config language.</description>
     </item>
     
     <item>
       <title>Configure Hugo</title>
-      <link>levid-gc.github.io/hugoDocs/getting-started/configuration/</link>
+      <link>https://levid-gc.github.io/hugoDocs/getting-started/configuration/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>levid-gc.github.io/hugoDocs/getting-started/configuration/</guid>
+      <guid>https://levid-gc.github.io/hugoDocs/getting-started/configuration/</guid>
       <description>Hugo uses the config.toml, config.yaml, or config.json (if found in the site root) as the default site config file.
 The user can choose to override that default with one or more site config files using the command line --config switch.
 Examples:

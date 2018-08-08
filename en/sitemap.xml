@@ -3,1985 +3,1985 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/introduction/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/introduction/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/content-management/"
+                href="https://levid-gc.github.io/hugoDocs/zh/content-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/content-management/"
+                href="https://levid-gc.github.io/hugoDocs/content-management/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/contribute/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/contribute/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/documentation/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/documentation/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/documentation/"
+                href="https://levid-gc.github.io/hugoDocs/zh/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/documentation/"
+                href="https://levid-gc.github.io/hugoDocs/documentation/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/about/"
+                href="https://levid-gc.github.io/hugoDocs/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/about/"
+                href="https://levid-gc.github.io/hugoDocs/about/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/templates/"
+                href="https://levid-gc.github.io/hugoDocs/zh/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/templates/"
+                href="https://levid-gc.github.io/hugoDocs/templates/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/themes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/themes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/troubleshooting/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/troubleshooting/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/scss-sass/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/scss-sass/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/troubleshooting/build-performance/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/troubleshooting/build-performance/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/hugo-and-gdpr/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-nanobox/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-nanobox/</loc>
     <lastmod>2017-08-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-nanobox/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-nanobox/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-nanobox/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-nanobox/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/new-in-032/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/new-in-032/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/contribute/development/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/contribute/development/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-netlify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-netlify/</loc>
     <lastmod>2017-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-netlify/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-netlify/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-netlify/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-netlify/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/themes/installing-and-using-themes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/themes/installing-and-using-themes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/introduction/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/introduction/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/migrations/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/migrations/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/organization/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/organization/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/content-management/organization/"
+                href="https://levid-gc.github.io/hugoDocs/zh/content-management/organization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/content-management/organization/"
+                href="https://levid-gc.github.io/hugoDocs/content-management/organization/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/site/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/site/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/what-is-hugo/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/what-is-hugo/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/quick-start/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/quick-start/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/lookup-order/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/lookup-order/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/output-formats/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/output-formats/</loc>
     <lastmod>2017-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-firebase/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-firebase/</loc>
     <lastmod>2017-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-firebase/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-firebase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-firebase/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-firebase/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/shortcodes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/shortcodes/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/base/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/base/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/templates/base/"
+                href="https://levid-gc.github.io/hugoDocs/zh/templates/base/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/templates/base/"
+                href="https://levid-gc.github.io/hugoDocs/templates/base/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/contribute/documentation/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/contribute/documentation/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/features/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/features/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/page/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/page/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/syntax-highlighting/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/syntax-highlighting/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/themes/theme-components/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/themes/theme-components/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/formats/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/formats/</loc>
     <lastmod>2017-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/lists/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/lists/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/starter-kits/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/starter-kits/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/themes/creating/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/themes/creating/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/homepage/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/homepage/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/taxonomy/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/taxonomy/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/benefits/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/benefits/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/contribute/themes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/contribute/themes/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/front-matter/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/front-matter/</loc>
     <lastmod>2017-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/installing/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/installing/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-github/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-github/</loc>
     <lastmod>2017-03-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-github/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-github/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-github/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/postcss/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/postcss/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/usage/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/usage/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/files/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/files/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/frontends/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/frontends/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/section-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/section-templates/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-gitlab/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-gitlab/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-gitlab/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-gitlab/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-gitlab/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-gitlab/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/minification/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/minification/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/menus/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/menus/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-bitbucket/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-bitbucket/</loc>
     <lastmod>2017-02-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-bitbucket/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-bitbucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-bitbucket/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-bitbucket/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/editors/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/editors/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/sections/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/sections/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/taxonomy-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/taxonomy-templates/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/directory-structure/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/directory-structure/</loc>
     <lastmod>2017-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/bundling/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/bundling/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/code-toggle/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/code-toggle/</loc>
     <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/hugo/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/hugo/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-wercker/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-wercker/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-wercker/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-wercker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-wercker/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-wercker/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/search/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/search/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/single-page-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/single-page-templates/</loc>
     <lastmod>2017-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/types/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/types/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/about/license/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/about/license/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/getting-started/configuration/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/getting-started/configuration/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/fingerprint/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/fingerprint/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/git/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/git/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/archetypes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/archetypes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/views/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/views/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-rsync/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-rsync/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-rsync/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-rsync/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-rsync/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/deployment-with-rsync/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/tools/other/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/tools/other/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/resource-from-template/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/resource-from-template/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/variables/sitemap/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/variables/sitemap/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/data-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/data-templates/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/taxonomies/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/taxonomies/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hugo-pipes/resource-from-string/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hugo-pipes/resource-from-string/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/partials/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/partials/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/summaries/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/summaries/</loc>
     <lastmod>2017-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/cross-references/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/cross-references/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/shortcode-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/shortcode-templates/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/files/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/files/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/urls/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/urls/</loc>
     <lastmod>2017-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/404/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/404/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/menus/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/menus/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/static-files/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/static-files/</loc>
     <lastmod>2017-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/menu-templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/menu-templates/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/toc/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/toc/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/comments/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/comments/</loc>
     <lastmod>2017-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/pagination/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/pagination/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/rss/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/rss/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/multilingual/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/multilingual/</loc>
     <lastmod>2017-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/sitemap-template/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/sitemap-template/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/robots/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/robots/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/internal/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/internal/</loc>
     <lastmod>2017-03-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/alternatives/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/alternatives/</loc>
     <lastmod>2017-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/templates/template-debugging/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/templates/template-debugging/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/page-resources/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/page-resources/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/content-management/page-resources/"
+                href="https://levid-gc.github.io/hugoDocs/zh/content-management/page-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/content-management/page-resources/"
+                href="https://levid-gc.github.io/hugoDocs/content-management/page-resources/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/image-processing/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/image-processing/</loc>
     <lastmod>2018-01-26T15:59:07-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/content-management/image-processing/"
+                href="https://levid-gc.github.io/hugoDocs/zh/content-management/image-processing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/content-management/image-processing/"
+                href="https://levid-gc.github.io/hugoDocs/content-management/image-processing/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.46-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.46-relnotes/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</loc>
     <lastmod>2018-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.45-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.45-relnotes/</loc>
     <lastmod>2018-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.44-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.44-relnotes/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.43-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.43-relnotes/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.42-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.42-relnotes/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.runecount/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.runecount/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.repeat/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.repeat/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.41-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.41-relnotes/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</loc>
     <lastmod>2018-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/tomango/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/tomango/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/flesland-flis/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/flesland-flis/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.40-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.40-relnotes/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.39-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.39-relnotes/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_benchmark/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_benchmark/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_check/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_check/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_check_ulimit/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_check_ulimit/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_config/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_config/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_convert/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_convert/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_convert_tojson/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_convert_tojson/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_convert_totoml/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_convert_totoml/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_convert_toyaml/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_convert_toyaml/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_env/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_env/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_gen/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_gen/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_gen_autocomplete/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_gen_autocomplete/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_gen_chromastyles/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_gen_chromastyles/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_gen_doc/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_gen_doc/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_gen_man/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_gen_man/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_import/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_import/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_import_jekyll/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_import_jekyll/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_list/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_list/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_list_drafts/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_list_drafts/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_list_expired/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_list_expired/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_list_future/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_list_future/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_new/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_new/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_new_site/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_new_site/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_new_theme/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_new_theme/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_server/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_server/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/hugo_version/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/hugo_version/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</loc>
     <lastmod>2018-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.38-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.38-relnotes/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/forestry/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/forestry/</loc>
     <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/lang.merge/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/lang.merge/</loc>
     <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.37-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.37-relnotes/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/1password-support/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/1password-support/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/stackimpact/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/stackimpact/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</loc>
     <lastmod>2018-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/quiply-employee-communications-app/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/linode/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/linode/</loc>
     <lastmod>2018-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/hartwell-insurance/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/maintenance/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/maintenance/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/pace-revenue-management/</loc>
     <lastmod>2018-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/template/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/template/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.36-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.36-relnotes/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.35-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.35-relnotes/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/content-management/page-bundles/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/content-management/page-bundles/</loc>
     <lastmod>2018-01-28T22:26:40-05:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.34-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.34-relnotes/</loc>
     <lastmod>2018-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.33-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.33-relnotes/</loc>
     <lastmod>2018-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</loc>
     <lastmod>2018-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</loc>
     <lastmod>2018-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</loc>
     <lastmod>2018-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.32-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.32-relnotes/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.31-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.31-relnotes/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</loc>
     <lastmod>2017-10-19T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</loc>
     <lastmod>2017-10-19T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.30-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.30-relnotes/</loc>
     <lastmod>2017-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/errorf/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/errorf/</loc>
     <lastmod>2017-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/float/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/float/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.29-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.29-relnotes/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.28-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.28-relnotes/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/urls.parse/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/urls.parse/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</loc>
     <lastmod>2017-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-keycdn/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-keycdn/</loc>
     <lastmod>2017-09-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-keycdn/"
+                href="https://levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-keycdn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-keycdn/"
+                href="https://levid-gc.github.io/hugoDocs/hosting-and-deployment/hosting-on-keycdn/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.27-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.27-relnotes/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/cond/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/cond/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/fileexists/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/fileexists/</loc>
     <lastmod>2017-08-31T22:38:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.26-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.26-relnotes/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/ge/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/ge/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/gt/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/gt/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/le/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/le/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/lt/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/lt/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/ne/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/ne/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/http2-server-push-in-hugo/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/http2-server-push-in-hugo/</loc>
     <lastmod>2017-07-24T18:36:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.25.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.25.1-relnotes/</loc>
     <lastmod>2017-07-10T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.25-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.25-relnotes/</loc>
     <lastmod>2017-07-07T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.24.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.24.1-relnotes/</loc>
     <lastmod>2017-06-24T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.24-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.24-relnotes/</loc>
     <lastmod>2017-06-17T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.23-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.23-relnotes/</loc>
     <lastmod>2017-06-16T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.22.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.22.1-relnotes/</loc>
     <lastmod>2017-06-13T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.22-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.22-relnotes/</loc>
     <lastmod>2017-06-12T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.21-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.21-relnotes/</loc>
     <lastmod>2017-05-22T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.7-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.7-relnotes/</loc>
     <lastmod>2017-05-03T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.6-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.6-relnotes/</loc>
     <lastmod>2017-04-27T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.5-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.5-relnotes/</loc>
     <lastmod>2017-04-25T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.4-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.4-relnotes/</loc>
     <lastmod>2017-04-24T17:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.3-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.3-relnotes/</loc>
     <lastmod>2017-04-24T13:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.2-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.2-relnotes/</loc>
     <lastmod>2017-04-16T13:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20.1-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20.1-relnotes/</loc>
     <lastmod>2017-04-13T13:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.20-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.20-relnotes/</loc>
     <lastmod>2017-04-10T13:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/"
+                href="https://levid-gc.github.io/hugoDocs/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/"
+                href="https://levid-gc.github.io/hugoDocs/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.19-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.19-relnotes/</loc>
     <lastmod>2017-02-27T13:53:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/adddate/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/adddate/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/format/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/format/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/get/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/get/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/getpage/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/getpage/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/hasmenucurrent/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/ismenucurrent/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/ismenucurrent/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/param/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/param/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/scratch/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/scratch/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/unix/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/unix/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/math/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/math/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/abslangurl/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/abslangurl/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/absurl/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/absurl/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/after/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/after/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/apply/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/apply/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/base64/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/base64/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/chomp/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/chomp/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/countrunes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/countrunes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/countwords/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/countwords/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/dateformat/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/dateformat/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/default/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/default/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/delimit/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/delimit/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/dict/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/dict/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/echoparam/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/echoparam/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/emojify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/emojify/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/eq/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/eq/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/findre/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/findre/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/first/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/first/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/getenv/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/getenv/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/hasprefix/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/hasprefix/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/highlight/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/highlight/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/htmlescape/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/htmlescape/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/htmlunescape/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/htmlunescape/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/humanize/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/humanize/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/i18n/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/i18n/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/imageconfig/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/imageconfig/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/in/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/in/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/index-function/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/index-function/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/int/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/int/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/intersect/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/intersect/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/isset/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/isset/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/jsonify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/jsonify/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/numfmt/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/numfmt/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/last/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/last/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/len/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/len/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/lower/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/lower/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/markdownify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/markdownify/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/md5/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/md5/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/now/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/now/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/partialcached/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/partialcached/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/plainify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/plainify/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/pluralize/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/pluralize/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/print/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/print/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/printf/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/printf/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/println/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/println/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/querify/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/querify/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/range/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/range/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/readdir/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/readdir/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/readfile/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/readfile/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/ref/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/ref/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/rellangurl/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/rellangurl/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/relurl/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/relurl/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/relref/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/relref/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/render/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/render/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/replace/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/replace/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/replacere/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/replacere/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/safecss/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/safecss/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/safehtml/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/safehtml/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/safehtmlattr/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/safehtmlattr/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/safejs/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/safejs/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/safeurl/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/safeurl/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/seq/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/seq/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/sha/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/sha/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/shuffle/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/shuffle/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/singularize/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/singularize/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/slice/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/slice/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/slicestr/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/slicestr/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/sort/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/sort/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/split/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/split/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/string/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/string/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.trimleft/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.trimleft/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.trimprefix/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.trimright/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.trimright/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/strings.trimsuffix/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/substr/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/substr/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/time/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/time/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/title/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/title/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/trim/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/trim/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/truncate/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/truncate/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/union/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/union/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/uniq/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/uniq/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/upper/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/upper/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/urlize/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/urlize/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/where/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/where/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/functions/with/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/functions/with/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.18-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.18-relnotes/</loc>
     <lastmod>2016-12-30T13:54:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.17-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.17-relnotes/</loc>
     <lastmod>2016-10-07T13:54:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.16-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.16-relnotes/</loc>
     <lastmod>2016-06-06T13:54:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.15-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.15-relnotes/</loc>
     <lastmod>2015-12-19T09:45:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.14-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.14-relnotes/</loc>
     <lastmod>2015-05-26T01:32:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.13-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.13-relnotes/</loc>
     <lastmod>2015-02-22T04:10:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.12-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.12-relnotes/</loc>
     <lastmod>2015-01-21T20:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.11-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.11-relnotes/</loc>
     <lastmod>2014-05-29T22:53:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.10-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.10-relnotes/</loc>
     <lastmod>2014-03-01T17:21:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.9-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.9-relnotes/</loc>
     <lastmod>2013-11-16T04:52:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.8-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.8-relnotes/</loc>
     <lastmod>2013-08-03T15:26:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/0.7-relnotes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/0.7-relnotes/</loc>
     <lastmod>2013-07-05T04:22:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/letsencrypt/bio/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/letsencrypt/bio/</loc>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/about-hugo/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/about-hugo/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/asset-management/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/asset-management/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/blog/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/blog/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/categories/"
+                href="https://levid-gc.github.io/hugoDocs/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/categories/"
+                href="https://levid-gc.github.io/hugoDocs/categories/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/commands/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/commands/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/content-management/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/content-management/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/categories/content-management/"
+                href="https://levid-gc.github.io/hugoDocs/zh/categories/content-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/categories/content-management/"
+                href="https://levid-gc.github.io/hugoDocs/categories/content-management/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/contribute/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/contribute/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/developer-tools/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/developer-tools/</loc>
     <lastmod>2017-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/functions/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/functions/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/fundamentals/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/fundamentals/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/categories/fundamentals/"
+                href="https://levid-gc.github.io/hugoDocs/zh/categories/fundamentals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/categories/fundamentals/"
+                href="https://levid-gc.github.io/hugoDocs/categories/fundamentals/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/getting-started/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/getting-started/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/"
+                href="https://levid-gc.github.io/hugoDocs/zh/categories/hosting-and-deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/"
+                href="https://levid-gc.github.io/hugoDocs/categories/hosting-and-deployment/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/news/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/news/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/news/"
+                href="https://levid-gc.github.io/hugoDocs/zh/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/news/"
+                href="https://levid-gc.github.io/hugoDocs/news/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/maintenance/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/maintenance/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/project-organization/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/project-organization/</loc>
     <lastmod>2017-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/releases/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/releases/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/showcase/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/showcase/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/templates/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/templates/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="levid-gc.github.io/hugoDocs/zh/categories/templates/"
+                href="https://levid-gc.github.io/hugoDocs/zh/categories/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="levid-gc.github.io/hugoDocs/categories/templates/"
+                href="https://levid-gc.github.io/hugoDocs/categories/templates/"
                 />
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/themes/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/themes/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/troubleshooting/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/troubleshooting/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>levid-gc.github.io/hugoDocs/categories/variables-and-params/</loc>
+    <loc>https://levid-gc.github.io/hugoDocs/categories/variables-and-params/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -1,4 +1,4 @@
-baseURL = "https://gohugo.io/"
+baseURL = "https://levid-gc.github.io/hugoDocs/"
 paginate =  100
 defaultContentLanguage = "en"
 enableEmoji = true

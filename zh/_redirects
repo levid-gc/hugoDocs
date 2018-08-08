@@ -1,0 +1,18 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/about-hugo/                       	levid-gc.github.io/hugoDocs/zh/about/
+/docs/                             	levid-gc.github.io/hugoDocs/zh/about/
+/content/                          	levid-gc.github.io/hugoDocs/zh/content-management/
+/content/organization              	levid-gc.github.io/hugoDocs/zh/content-management/
+/templates/overview/               	levid-gc.github.io/hugoDocs/zh/templates/
+/templates/content                 	levid-gc.github.io/hugoDocs/zh/templates/
+/tutorials/deployment-with-nanobox/	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-nanobox/
+/content/sections/                 	levid-gc.github.io/hugoDocs/zh/content-management/organization/
+/templates/blocks/                 	levid-gc.github.io/hugoDocs/zh/templates/base/
+/templates/base-templates-and-blocks/	levid-gc.github.io/hugoDocs/zh/templates/base/
+/tutorials/github-pages-blog/      	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-github/
+/tutorials/hosting-on-gitlab/      	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-gitlab/
+/tutorials/hosting-on-bitbucket/   	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/hosting-on-bitbucket/
+/tutorials/automated-deployments/  	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-wercker/
+/tutorials/deployment-with-rsync/  	levid-gc.github.io/hugoDocs/zh/hosting-and-deployment/deployment-with-rsync/
+/release-notes/                    	levid-gc.github.io/hugoDocs/zh/news/

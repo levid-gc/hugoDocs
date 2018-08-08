@@ -1,0 +1,8 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+*/
+  Link: </levid-gc.github.io/hugoDocs/dist/app.bundle.js>; rel=preload; as=script
+  Link: </levid-gc.github.io/hugoDocs/dist/main.css>; rel=preload; as=style

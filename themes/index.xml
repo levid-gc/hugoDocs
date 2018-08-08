@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on Hugo</title>
+    <link>levid-gc.github.io/hugoDocs/themes/</link>
+    <description>Recent content in Themes on Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="levid-gc.github.io/hugoDocs/themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install and Use Themes</title>
+      <link>levid-gc.github.io/hugoDocs/themes/installing-and-using-themes/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/themes/installing-and-using-themes/</guid>
+      <description>Hugo currently doesn’t ship with a “default” theme. This decision is intentional. We leave it up to you to decide which theme best suits your Hugo project.
+Assumptions  You have already installed Hugo on your development machine. You have git installed on your machine and you are familiar with basic git usage.  Install Themes   The community-contributed themes featured on themes.gohugo.io are hosted in a centralized GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>Theme Components</title>
+      <link>levid-gc.github.io/hugoDocs/themes/theme-components/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/themes/theme-components/</guid>
+      <description>Since Hugo 0.42 a project can configure a theme as a composite of as many theme components you need:
+config.yaml&amp;nbsp;toml&amp;nbsp;json&amp;nbsp;theme:-my-shortcodes-base-theme-hydetheme = [&amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34;] { &amp;#34;theme&amp;#34;: [ &amp;#34;my-shortcodes&amp;#34;, &amp;#34;base-theme&amp;#34;, &amp;#34;hyde&amp;#34; ] } You can even nest this, and have the theme component itself include theme components in its own config.toml (theme inheritance).1
+The theme definition example above in config.</description>
+    </item>
+    
+    <item>
+      <title>Create a Theme</title>
+      <link>levid-gc.github.io/hugoDocs/themes/creating/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/themes/creating/</guid>
+      <description>If you&amp;rsquo;re creating a theme with plans to share it with the community, use relative URLs since users of your theme may not publish from the root of their website. See relURL and absURL.
+Hugo can initialize a new blank theme directory within your existing themes using the hugo new command:
+hugo new theme [name]  Theme Folders A theme component can provide files in one or more of the following standard Hugo folders:</description>
+    </item>
+    
+  </channel>
+</rss>

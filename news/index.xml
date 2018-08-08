@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo News on Hugo</title>
+    <link>levid-gc.github.io/hugoDocs/news/</link>
+    <description>Recent content in Hugo News on Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="levid-gc.github.io/hugoDocs/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Summer of Hugo</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.46-relnotes/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.46-relnotes/</guid>
+      <description>Hugo 0.46 is the closing credits to The Summer of Hugo. While most people have been relaxing on the beach, Hugo has been really busy:
+ 0.42, June 12, 2018: Theme Composition and Inheritance! 0.43, July 9, 2018: Hugo Pipes!  This was followed by some more technical follow-up releases. And today, when July has turned into August, we come with another one. It&amp;rsquo;s not a big release. But with the big interest in Hugo Pipes, we felt that it was important to get this out there sooner rather than later.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.45.1: Two Bug Fixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.45.1-relnotes/</guid>
+      <description> This is a bug-fix release with a couple of important fixes (and one enhancement).
+Enhancements  Add Page.FirstSection 016dd4a6 @bep  Fixes  Fix .Site.GetPage regression 04d4c08d @bep #4989 Fix &amp;ldquo;borrow content from another language&amp;rdquo; issue c6b599a0 @bep #4986  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.45: Revival of ref, relref and GetPage</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.45-relnotes/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.45-relnotes/</guid>
+      <description>Hugo 0.45 is the revival of ref, relref and GetPage. @vassudanagunta and @bep have done some great work improving the API and implementation for the helper functions used to get one page. Before this release, the API was a little bit clumsy and the result potentially ambiguous in some situations.
+Now you can simply do:
+{{with.Site.GetPage&amp;#34;/blog/my-post.md&amp;#34;}}{{.Title}}{{end}} Or to get a section page:
+{{with.Site.GetPage&amp;#34;/blog&amp;#34;}}{{.Title}}{{end}} We have also added a .GetPage method on Page and added support for page-relative linking.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.44: Friday the 13th Edition</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.44-relnotes/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.44-relnotes/</guid>
+      <description>Hugo 0.44 is the follow-up release, or The Sequel, of the very well received 0.43 only days ago. That release added Hugo Pipes, with SCSS/SASS support, assets bundling and minification, ad-hoc image processing and much more.
+This is mostly a bug-fix release, but it also includes several important improvements.
+Many complained that their SVG images vanished when browsed from the hugo server. With Hugo Pipes MIME types suddenly got really important, but Hugo&amp;rsquo;s use of Suffix was ambiguous.</description>
+    </item>
+    
+    <item>
+      <title>And Now: Hugo Pipes!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.43-relnotes/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.43-relnotes/</guid>
+      <description>Hugo 0.43 adds a powerful and very simple to use Assets Pipeline with SASS and SCSS with source map support, PostCSS and minification and fingerprinting and Subresource Integrity and &amp;hellip; much more. Oh, did we mention that you can now do ad-hoc image processing and execute text resources as Go templates?
+An example pipeline:
+{{$styles:=resources.Get&amp;#34;scss/main.scss&amp;#34;|toCSS|postCSS|minify|fingerprint}} &amp;lt;link rel=&amp;#34;stylesheet&amp;#34; href=&amp;#34;{{$styles.Permalink}}&amp;#34; integrity=&amp;#34;{{$styles.Data.Integrity}}&amp;#34; media=&amp;#34;screen&amp;#34;&amp;gt; To me, the above is beautiful in its speed and simplicity.</description>
+    </item>
+    
+    <item>
+      <title>Let’s celebrate Hugo’s 5th birthday</title>
+      <link>levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/lets-celebrate-hugos-5th-birthday/</guid>
+      <description>By Bjørn Erik Pedersen (@bepsays / @bep), Hugo Lead
+Five years ago today, Steve Francia made his first commit on the Hugo project: &amp;ldquo;Hugo: A Fast and Flexible Static Site Generator built with love by spf13 in GoLang&amp;rdquo;.
+Steve was writing that on a train commute to New York. I&amp;rsquo;m writing this article running Hugo v0.43-DEV, the preview version of the next Hugo release. The release is scheduled for Monday and adds a powerful assets pipeline, with SCSS/SASS support, assets minification, fingerprinting/subresource integrity, ad-hoc image processing and much more.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.42.2: One Bug Fix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.42.2-relnotes/</guid>
+      <description>This release fixes broken server-reload on config changes. This is a regression from Hugo 0.42. 3a7706b0 @bep #4878</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.42.1: Two Bug Fixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.42.1-relnotes/</guid>
+      <description>This is a bug-fix release with two fixes:
+ Reset the global pages cache on server rebuilds 128f14ef @bep #4845 Do not fail server build when /static is missing 34ee27a7 @bep #4846  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.42: Theme Composition and Inheritance!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.42-relnotes/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.42-relnotes/</guid>
+      <description>Hugo 0.42 adds Theme Components. This is a really powerful new way of building your Hugo sites with reusable components. This is both Theme Composition and Theme Inheritance.
+ Read more about Theme Components in the Hugo Documentation.
+ The feature above was implemented by @bep, the funny Norwegian, with great design help from the Hugo community. But that implementation would not have been possible without Afero, Steve Francia&amp;rsquo;s virtual file system.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.41: Privacy Configuration for GDPR</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.41-relnotes/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.41-relnotes/</guid>
+      <description>In Hugo 0.41 we add a new Privacy Configuration section to meet the new regulations in the new General Data Protection Regulation (GDPR). Many have contributed work on this project, but a special thanks to @onedrawingperday, @jhabdas, and @it-gro.
+ You can read more about the new Privacy Config here.
+ Hugo now has:
+ 25917+ stars 446+ contributors 231+ themes  Notes  We have fixed an issue where we sent the wrong .</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.40.3: One Bug Fix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.40.3-relnotes/</guid>
+      <description>Hugo 0.40.3 fixes a possible .Content truncation issue introduced in 0.40.1 90d0d830 @bep #4706. This should be very rare. It has been reported by only one user on a synthetic site. We have tested a number of big sites that does not show this problem with 0.40.2, but this is serious enough to warrant a patch release.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.40.2: Two Bug fixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.40.2-relnotes/</guid>
+      <description>This release fixes some regressions introduced in Hugo 0.40. See the milestone for an issue list.
+ Reset .Page.Scratch on live-reload 655983a2 @bep #4683 Fix .WordCount, .FuzzyWordCount, .ReadingTime when summary marker is set 001a28c2 @bep #4675#4682  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.40.1: One Bug Fix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.40.1-relnotes/</guid>
+      <description>This release fixes some shortcode vs .Content corner cases introduced in Hugo 0.40 288c3964 @bep #4632#4664.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.40: The Revival of the Shortcodes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.40-relnotes/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.40-relnotes/</guid>
+      <description>Hugo 0.40 is The Revival of the Shortcodes. Shortcodes is one of the prime features in Hugo. Really useful, but it has had some known shortcomings. @bep has been really busy the last week to address those.
+In summary:
+ .Content for a page retrieved in a query in a shortcode is now almost always available. Note that shortcodes can include content that can include shortcodes that can include content&amp;hellip; It is possible to bite your tail.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.39: The Nat King Cole Stabilizer Edition</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.39-relnotes/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.39-relnotes/</guid>
+      <description>Nat King Cole was a fantastic American jazz pianist. When his bass player had visited the bar a little too often, he started with his percussive piano playing to keep the tempo flowing. Oscar Peterson called it &amp;ldquo;Nat&amp;rsquo;s stabilizers&amp;rdquo;. This release is the software equivalent of that. We have been doing frequent main releases this year, but looking back, the patch releases that followed them seemed unneeded. And looking at the regressions, most of them stem from the commands package, a package that before this release was filled with globals and high coupling.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.38.2: Two Bugfixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.38.2-relnotes/</guid>
+      <description>This is a bug-fix release with a couple of important fixes:
+ Fix handling of the --contentDir and possibly other related flags 080302eb @bep #4589 Fix handling of content files with &amp;ldquo;.&amp;rdquo; in them 2817e842 @bep #4559  Also in this release:
+ Set .Parent in bundled pages to its owner 6792d86a @bep #4582  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.38.1: Some Live Reload Fixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.38.1-relnotes/</guid>
+      <description>This is a bug-fix that is mainly motivated by some issues with server live reloading introduced in Hugo 0.38.
+ Fix livereload for the home page bundle f87239e4 @bep #4576 Fix empty BuildDate in &amp;ldquo;hugo version&amp;rdquo; 294c0f80 @anthonyfok Fix some livereload content regressions a4deaeff @bep #4566 Update github.com/bep/gitmap to fix snap build 4d115c56 @anthonyfok #4538 Fix two tests that are broken on Windows 26f34fd5 @neurocline  This release also contains some improvements:</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.38: The Easter Egg Edition</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.38-relnotes/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.38-relnotes/</guid>
+      <description>Hugo 0.38 is an Easter egg filled with good stuff. We now support fetching date and slug from the content filename, making the move from Jekyll even easier. And you can now set contentDir per language with intelligent merging, and themes can now provide configuration &amp;hellip; Also worth mentioning is several improvements in the Chroma highlighter, most notable support for Go templates.
+We are working hard to get the documentation up-to-date with the new features, but you can also see them in action with the full source at hugotest.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.37.1: One Bugfix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.37.1-relnotes/</guid>
+      <description>This is a bug-fix release with a one important fix:
+Image content such as SVG cannot be scaled with the built-in image processing methods, but it should still be possible to use them as page resources. This was a regression in Hugo 0.37 and is now fixed. ba94abbf @bep #4455</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.37: Preserve PNG Colour Palette</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.37-relnotes/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.37-relnotes/</guid>
+      <description>The main item in Hugo 0.37 is that we now properly preserve the colour palette when processing PNG images. We got reports from users experiencing their PNG images getting bigger in file size when scaled down. Now, if you, as an example, start out with a carefully chosen 8 bit colour palette (i.e. PNG-8), this is now what you will end up with. A special thanks to @aitva for doing the investigative work finding a proper fix for this issue.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.36.1: One Bugfix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.36.1-relnotes/</guid>
+      <description>This release fixes a multi-thread issue when reprocessing and reusing images across pages. When doing something like this with the same image from a partial used in, say, both the home page and the single page:
+{{ with $img }} {{ $big := .Fill &amp;#34;1024x512 top&amp;#34; }} {{ $small := $big.Resize &amp;#34;512x&amp;#34; }} {{ end }} There would be timing issues making Hugo in some cases trying to process the same image twice at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.36: Smart Image Cropping!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.36-relnotes/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.36-relnotes/</guid>
+      <description>Hugo 0.36 announces smart cropping of images, using the library created by muesli. We will work with him to improve this even more in the future, but this is now the default used when cropping images in Hugo.
+Go here for a list of examples.
+This release represents 7 contributions by 3 contributors to the main Hugo code base.
+Many have also been busy writing and fixing the documentation in hugoDocs, which has received 9 contributions by 4 contributors.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.35: Headless Bundles!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.35-relnotes/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.35-relnotes/</guid>
+      <description>The most notable new feature in Hugo 0.35 is perhaps Headless Bundles.
+This means that you in your index.md front matter can say:
+headless:true And
+ it will have no Permalink and no rendered HTML in /public it will not be part of .Site.RegularPages etc.  But you can get it by:
+ .Site.GetPage ...  The use cases are many:
+ Shared media libraries Reusable page content &amp;ldquo;snippets&amp;rdquo; &amp;hellip;  But this release contains more goodies than possible to sum up in one paragraph, so study the release notes carefully.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.34: Pattern matching to filter images and other resources</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.34-relnotes/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.34-relnotes/</guid>
+      <description>Hugo 0.34 is a small release. It contains a few smaller bug-fixes, but more important is an overhaul of the API used to find images and other resources in your page bundles.
+We have added two simple methods on the Resources object:
+ .Match finds every resource matching a pattern. Examples: .Match &amp;quot;images/*.jpg&amp;quot; finds every JPEG image in images and .Match &amp;quot;**.jpg&amp;quot; finds every JPEG image in the bundle. .</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.33: The New Kinder Surprise!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.33-relnotes/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.33-relnotes/</guid>
+      <description>Hugo 0.33 is the first main Hugo release of the new year, and it is safe to say that @bep has turned off his lazy Christmas mode 😃
+This is a full makeover of the layout selection logic with full custom layout and type support (many have asked for this). Also, Hugo now respects the url value in front matter for all page types, including sections. Also, you can now configure uglyURLs per section.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.32.4: Two bugfixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.32.4-relnotes/</guid>
+      <description>This is a bug-fix release with two of important fixes.
+ Fix non-ASCII path handling for Page resources f0eecc6a @bep #4241 Fix --cleanDestinationDir 5235a5bf @biodranik #4246#4248  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.32.3: Some important bug fixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.32.3-relnotes/</guid>
+      <description>Hugo 0.32 was a big and really cool release, and the Hugo Forum has been filled with questions from people wanting to upgrade their Hugo sites to be able to use the new image processing feature etc.
+And with that we have discovered some issues, which this release should fix, mostly releated to multilingual sites:
+ Fix multihost detection for sites without language definition 8969331f @bep #4221 Fix hugo benchmark &amp;ndash;renderToMemory 059e8458 @bep #4218 Fix URLs for bundle resources in multihost mode ab82a27d @bep #4217 Fix sub-folder baseURL handling for Page resources f25d8a9e @bep #4228 Avoid processing and storing same image for each language 4b04db0f @bep #4231 Resources.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.32.2: One bugfix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.32.2-relnotes/</guid>
+      <description>This is a bug-fix release with one important fix.
+ Handle publish of processed images to /public on fresh build with no image cache in /resources (as reported by one person in a Netlify build) 196da49c @bep #4213  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.32.1: Two bugfixes</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.32.1-relnotes/</guid>
+      <description>This fixes 2 bugs from the Hugo 0.32 release.
+ Fix image processing from shortcodes in non-server mode. @bep #4202 Fix broken hugo --renderToMemory. Note that this is only useful for benchmark testing, as there is no easy way to actually view the result. d36d71ed @bep #4212  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.32: Page Bundles and Image Processing!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.32-relnotes/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.32-relnotes/</guid>
+      <description>Hugo 0.32 features Page Bundles and Image Processing by @bep, which is very cool and useful on so many levels. Read about it in more detail in the Hugo documentation, but some of the highlights include:
+ Automatic bundling of a content page with its resources. Resources can be anything: Images, JSON files &amp;hellip; and also other content pages. A Resource will have its RelPermalink and Permalink relative to the &amp;ldquo;owning page&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.31.1: One Bugfix!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.31.1-relnotes/</guid>
+      <description>This is a bug-fix release with one important bug fix:
+ Fix broken --appendPort=false 8afd7d9c @bep #4111  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.31: Language Multihost Edition!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.31-relnotes/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.31-relnotes/</guid>
+      <description>Hugo 0.31 is the Language Multihost Edition!
+ The Multihost feature is sponsored by eSolia, @rickcogley&amp;rsquo;s company.
+ Multihost means that you can have a baseURL per language, for example, https://no.example.com and https://en.example.com. This is seamlessly integrated, and the built-in web server with live reload and navigateToChanged etc. just works. A related enhancement in this release is the support for as many static dirs as you need, with intelligent language overrides, forming a big union file system.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.30.2: One More Bugfix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</link>
+      <pubDate>Thu, 19 Oct 2017 12:00:00 +0200</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.30.2-relnotes/</guid>
+      <description>This release fixes Fast Render mode with sub-path in baseURL 31641033 @bep #3981.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.30.1: Two Important Bugfixes!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.30.1-relnotes/</guid>
+      <description>This is a bug-fix release with two important fixes.
+ Fix hugo -w fa53b13c @bep #3980 Revert sitemap template change to make the Google validator happy 5109ed520 @bep #3978  Hugo now has:
+ 20285+ stars 454+ contributors 180+ themes  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.30: Race Car Edition!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.30-relnotes/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.30-relnotes/</guid>
+      <description>Hugo 0.30 is the Race Car Edition. Hugo is already very very fast, but wants much more. So we added Fast Render Mode. It is hard to explain, so start the Hugo development server with hugo server and start editing. Live reloads just got so much faster! The &amp;ldquo;how and what&amp;rdquo; is discussed at length in other places, but the short version is that we now re-render only the parts of the site that you are working on.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.29: Template Metrics</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.29-relnotes/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.29-relnotes/</guid>
+      <description>Hugo 0.29 brings Template Metrics by @moorereason. Hugo is very fast, but it is still possible to write ineffective templates. Now these should be easy to identify. Just run:
+hugo --templateMetrics Now, that was the tasty carrot. The real reason this release comes so fast after the last one is to change the default value for the new noHTTPCache flag, which gives away too much performance to make sense as a default value.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.28: High-speed Syntax Highlighting!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.28-relnotes/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.28-relnotes/</guid>
+      <description>Hugo 0.28 brings blistering fast and native syntax highlighting from Chroma (fb33d828 @bep #3888). A big thank you to Alec Thomas for taking on this massive task of porting the popular python highlighter Pygments to Go.
+Hugo has been caching the highlighter output to disk, so for repeated builds it has been fine, but this little snippet, showing a build of the gohugo.io site without cache and with both Pygments and Chroma, should illustrate the improvement:</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.27.1: One bugfix</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.27.1-relnotes/</guid>
+      <description>This fixes a regression introduced in Go 1.9 which lead to HTML in shortcodes in multi output Hugo sites being wrongly escaped in some cases.
+ Fix escaped HTML Go 1.9 multioutput issue (#3880) 2d613dd9 @bep #3876
+ Bump to Go 1.9 in the Snap build 642ba6ca @bep
+  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.27: Fast and Flexible Related Content!</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.27-relnotes/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.27-relnotes/</guid>
+      <description>Hugo 0.27comes with fast and flexible Related Content (3b4f17bb @bep #98). To add this to your site, put something like this in your single page template:
+{{$related:=.Site.RegularPages.Related.|first5}} {{with$related}} &amp;lt;h3&amp;gt;See Also&amp;lt;/h3&amp;gt; &amp;lt;ul&amp;gt; {{range.}} &amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;{{.RelPermalink}}&amp;#34;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; {{end}} &amp;lt;/ul&amp;gt; {{end}} The above translates to list the five regular pages mostly related to the current page. See the Related Content Documentation for details and configuration options.
+This release represents 37 contributions by 9 contributors to the main Hugo code base.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.26: Language Style Edition</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.26-relnotes/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.26-relnotes/</guid>
+      <description>This release brings a choice of AP Style or Chicago Style Title Case (8fb594bf #989). You can also now configure Blackfriday to render « French Guillemets » (cb9dfc26 #3725). To enable French Guillemets, put this in your site config.toml:
+[blackfriday] angledQuotes = true smartypantsQuotesNBSP = true Oh, and this release also fixes it so you should see no ugly long crashes no more when you step wrong in your templates (794ea21e).</description>
+    </item>
+    
+    <item>
+      <title>HTTP/2 Server Push in Hugo</title>
+      <link>levid-gc.github.io/hugoDocs/news/http2-server-push-in-hugo/</link>
+      <pubDate>Mon, 24 Jul 2017 18:36:00 +0200</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/http2-server-push-in-hugo/</guid>
+      <description>Netlify recently announced support for HTTP/2 server push, and we have now added it to the gohugo.io sites for the main CSS and JS bundles, along with server-side 301 redirect support.
+If you navigate to https://gohugo.io and look in the Chrome developer network console, you should now see Push as the new source (&amp;ldquo;Initiator&amp;rdquo;) for the CSS and JSS:
+   Network log for https://gohugo.io   Setting up this in Hugo was easy:</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.25.1</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.25.1-relnotes/</link>
+      <pubDate>Mon, 10 Jul 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.25.1-relnotes/</guid>
+      <description> This is a bug-fix release with a couple of important fixes.
+Hugo now has:
+ 18277+ stars 456+ contributors 170+ themes  Fixes  Fix union when the first slice is empty dbbc5c48 @bep #3686 Navigate to changed on CREATE When working with content from IntelliJ IDE, like WebStorm, every file save is followed by two events: &amp;ldquo;RENAME&amp;rdquo; and then &amp;ldquo;CREATE&amp;rdquo;. 7bcc1ce6 @miltador Final (!) fix for issue with escaped JSON front matter 7f82b41a @bep #3682 Fix issue with escaped JSON front matter 84db6c74 @bep #3682  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.25</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.25-relnotes/</link>
+      <pubDate>Fri, 07 Jul 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.25-relnotes/</guid>
+      <description>Hugo 0.25 is the Kinder Surprise: It automatically opens the page you&amp;#39;re working on in the browser, it adds full AND and OR support in page queries, and you can now have templates per language.
+If you start with hugo server --navigateToChanged, Hugo will navigate to the relevant page on save (see animated GIF). This is extremely useful for site-wide edits. Another very useful feature in this version is the added support for AND (intersect) and OR (union) filters when combined with where.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.24.1</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.24.1-relnotes/</link>
+      <pubDate>Sat, 24 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.24.1-relnotes/</guid>
+      <description> This release fixes some important archetype-related regressions from the recent Hugo 0.24-release.
+Fixes  Fix archetype regression when no archetype file 4294dd8d @bep #3626 Preserve shortcodes in archetype templates b63e4ee1 @bep #3623 Fix handling of timezones with positive UTC offset (e.g., +0800) in TOML 0744f81e @bep #3628  Enhancements  Create default archetype on new site bfa336d9 @bep #3626  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.24</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.24-relnotes/</link>
+      <pubDate>Sat, 17 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.24-relnotes/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A feature that could be the name of the next Indiana Jones movie deserves its own release,&amp;rdquo; says &lt;a href=&#34;https://github.com/bep&#34;&gt;@bep&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hugo now handles the &lt;strong&gt;archetype files as Go templates&lt;/strong&gt;. This means that the issues with sorting and lost comments are long gone. This also means that you will have to supply all values, including title and date. But this also opens up a lot of new windows.&lt;/p&gt;
+
+&lt;p&gt;A fictional example for the section &lt;code&gt;newsletter&lt;/code&gt; and the archetype file &lt;code&gt;archetypes/newsletter.md&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;{{ replace .TranslationBaseName &amp;quot;-&amp;quot; &amp;quot; &amp;quot; | title }}&amp;quot;
+date: {{ .Date }}
+draft: true
+---
+
+**Insert Lead paragraph here.**
+
+
+
+## New Cool Posts
+
+{{ range first 10 ( where .Site.RegularPages &amp;quot;Type&amp;quot; &amp;quot;cool&amp;quot; ) }}
+* {{ .Title }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And then create a new post with:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.23</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.23-relnotes/</link>
+      <pubDate>Fri, 16 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.23-relnotes/</guid>
+      <description>Hugo 0.23 is mainly a release that handles all the small changes needed to get Hugo moved to a GitHub organisation: gohugoio, but it also contains a couple of important fixes that makes this an update worth-while for all.
+Hugo now has:
+ 17739&amp;#43; stars 494&amp;#43; contributors 165&amp;#43; themes  Fixes  Fix handling of duplicate footnotes a9e551a1 @bep #1912 Add support for spaces in project folder for GitInfo #3533 #3552  GitHub organisation related changes  Update layout references to gohugoio/hugo 66d4850b @bep Update content references to gohugoio/hugo 715ff1f8 @bep Add note on updates for rpm-based distros 52a0cea6 @daftaupe Update logo link in README ccb8300d @bep Remove docs building from CI builds 214dbdfb @bep Adjust docs path 729be807 @bep Add docs as submodule 6cee0dfe @bep Update Gitter link in README fbb25014 @bep Change Windows build badge link, take #3 86543d6a @bep Update Windows build link e6ae32a0 @bep Update links in CONTRIBUTING.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.22.1</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.22.1-relnotes/</link>
+      <pubDate>Tue, 13 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.22.1-relnotes/</guid>
+      <description>Hugo 0.22.1 fixes a couple of issues reported after the 0.22 release Monday. Most importantly a fix for detecting regular subfolders below the root-sections.
+Also, we forgot to adapt the permalink settings with support for nested sections, which made that feature less useful than it could be.
+With this release you can configure permalinks with sections like this:
+First level only:
+[permalinks] blog = &amp;quot;:section/:title&amp;quot;  Nested (all levels):</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.22</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.22-relnotes/</link>
+      <pubDate>Mon, 12 Jun 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.22-relnotes/</guid>
+      <description>Hugo 0.22 brings nested sections, by popular demand and a long sought after feature (#465). We are still low on documentation for this great feature, but @bep has been kind enough to accompany his implementation with a demo site.
+This release represents 58 contributions by 10 contributors to the main Hugo code base. Since last release Hugo has gained 420 stars and 2 additional themes.
+@bep still leads the Hugo development with his witty Norwegian humor, and once again contributed a significant amount of additions.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.21</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.21-relnotes/</link>
+      <pubDate>Mon, 22 May 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.21-relnotes/</guid>
+      <description>Hugo 0.21 brings full support for shortcodes per Output Format (#3220), the last vital piece of that puzzle. This is especially useful for Google AMP with its many custom media tags.
+This release represents 126 contributions by 29 contributors to the main Hugo code base. Since last main release Hugo has gained 850 stars and 7 additional themes.
+Hugo now has:
+ 17156&amp;#43; stars 457&amp;#43; contributors 163&amp;#43; themes  @bep leads the Hugo development with a significant amount of contributions, but also a big shoutout to @moorereason, @bogem, and @munnerz for their ongoing contributions.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.7</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.7-relnotes/</link>
+      <pubDate>Wed, 03 May 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.7-relnotes/</guid>
+      <description> This just fixes an issue with the release scripts, no change in the binaries.
+Hugo now has:
+ 16782&amp;#43; stars 458&amp;#43; contributors 156&amp;#43; themes  Fix  Push the tag before goreleaser is run 3682bf52 @bep #3405  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.6</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.6-relnotes/</link>
+      <pubDate>Thu, 27 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.6-relnotes/</guid>
+      <description> There have been some shouting on discuss.gohugo.io about some broken sites after the release of Hugo 0.20. This release reintroduces the old behaviour, making /my-blog-post/index.md work as expected.
+Hugo now has:
+ 16675&amp;#43; stars 456&amp;#43; contributors 156&amp;#43; themes  Fixes  Avoid index.md in /index/index.html #3396 Make missing GitInfo a WARNING b30ca4be @bep #3376 Fix some of the fpm fields for deb 3bd1d057 @anthonyfok  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.5</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.5-relnotes/</link>
+      <pubDate>Tue, 25 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.5-relnotes/</guid>
+      <description>This is a bug-fix release which fixes the version number of 0.20.4 (which wrongly shows up as 0.21-DEV) (#3388).</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.4</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.4-relnotes/</link>
+      <pubDate>Mon, 24 Apr 2017 17:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.4-relnotes/</guid>
+      <description> This is the second bug-fix release of the day, fixing a couple of issues related to the new release scripts.
+Hugo now has:
+ 16626&amp;#43; stars 457&amp;#43; contributors 156&amp;#43; themes  Fixes  Fix statically linked binaries 275bcf56 @munnerz #3382 Filename change in Hugo 0.20.3 binaries #3385 Fix version calculation cb3c6b6f @bep  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.3</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.3-relnotes/</link>
+      <pubDate>Mon, 24 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.3-relnotes/</guid>
+      <description> This is a bug-fix release with one important fix. But it also adds some harness around GoReleaser to automate the Hugo release process. Big thanks to @caarlos0 for great and super-fast support fixing issues along the way.
+Hugo now has:
+ 16619&amp;#43; stars 458&amp;#43; contributors 156&amp;#43; themes  Enhancement  Automate the Hugo release process 550eba64 @bep #3358  Fix  Fix handling of zero-length files 9bf5c381 @bep #3355  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.2</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.2-relnotes/</link>
+      <pubDate>Sun, 16 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.2-relnotes/</guid>
+      <description>Hugo 0.20.2 adds support for plain text partials included into HTML templates. This was a side-effect of the big new Custom Output Format feature in 0.20, and while the change was intentional and there was an ongoing discussion about fixing it in #3273, it did break some themes. There were valid workarounds for these themes, but we might as well get it right.
+The most obvious use case for this is inline CSS styles, which you now can do without having to name your partials with a html suffix.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20.1</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20.1-relnotes/</link>
+      <pubDate>Thu, 13 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20.1-relnotes/</guid>
+      <description> Fix logic for base template in work dir vs in the theme #3323 camelCased templates (partials, shortcodes etc.) not found #3333 Live-reload fails with _index.md with paginator #3315 rssURI WARNING always shown #3319  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.20</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.20-relnotes/</link>
+      <pubDate>Mon, 10 Apr 2017 13:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.20-relnotes/</guid>
+      <description>Hugo 0.20 introduces the powerful and long sought after feature Custom Output Formats; Hugo isn’t just that “static HTML with an added RSS feed” anymore. Say hello to calendars, e-book formats, Google AMP, and JSON search indexes, to name a few ( #2828 ).
+This release represents over 180 contributions by over 30 contributors to the main Hugo code base. Since last release Hugo has gained 1100 stars, 20 new contributors and 5 additional themes.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.19</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.19-relnotes/</link>
+      <pubDate>Mon, 27 Feb 2017 13:53:58 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.19-relnotes/</guid>
+      <description>We&amp;rsquo;re happy to announce the first release of Hugo in 2017.
+This release represents over 180 contributions by over 50 contributors to the main Hugo code base. Since last release Hugo has gained 1450 stars, 35 new contributors, and 15 additional themes.
+Hugo now has:
+ 15200+ stars 470+ contributors 151+ themes  Furthermore, Hugo has its own Twitter account (@gohugoio) where we share bite-sized news and themes from the Hugo community.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.18</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.18-relnotes/</link>
+      <pubDate>Fri, 30 Dec 2016 13:54:02 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.18-relnotes/</guid>
+      <description>Hugo 0.18.1 is a bug fix release fixing some issues introduced in Hugo 0.18:
+ Fix 32-bit binaries #2847 Fix issues with preserveTaxonomyNames #2809 Fix .URL for taxonomy pages when uglyURLs=true #2819 Fix IsTranslated and Translations for node pages #2812 Make template error messages more verbose #2820  0.18.0 December 19th 2016 Today, we&amp;rsquo;re excited to release the much-anticipated Hugo 0.18!
+We&amp;rsquo;re heading towards the end of the year 2016, and we can look back on three releases and a steady growing community around the project.</description>
+    </item>
+    
+    <item>
+      <title>0.17: Hugo is going global</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.17-relnotes/</link>
+      <pubDate>Fri, 07 Oct 2016 13:54:06 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.17-relnotes/</guid>
+      <description>Hugo is going global with our 0.17 release. We put a lot of thought into how we could extend Hugo to support multilingual websites with the most simple and elegant experience. Hugo&amp;rsquo;s multilingual capabilities rival the best web and documentation software, but Hugo&amp;rsquo;s experience is unmatched. If you have a single language website, the simple Hugo experience you already love is unchanged. Adding additional languages to your website is simple and straightforward.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.16</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.16-relnotes/</link>
+      <pubDate>Mon, 06 Jun 2016 13:54:06 -0400</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.16-relnotes/</guid>
+      <description>Hugo 0.16 is our best and biggest release ever. The Hugo community has outdone itself with continued performance improvements, beautiful themes for all types of sites from project sites to documentation to blogs to portfolios, and increased stability.
+This release represents over 550 contributions by over 110 contributors to the main Hugo code base. Since last release Hugo has gained 3500 stars, 90 contributors and 23 additional themes.
+This release celebrates 3 years since @spf13wrote the first lines of Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.15</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.15-relnotes/</link>
+      <pubDate>Sat, 19 Dec 2015 09:45:24 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.15-relnotes/</guid>
+      <description>The v0.15.0 Hugo release brings a lot of polish to Hugo. Exactly 6 months after the 0.14 release, Hugo has seen massive growth and changes. Most notably, this is Hugo&amp;rsquo;s first release under the Apache 2.0 license. With this license change we hope to expand the great community around Hugo and make it easier for our many users to contribute. This release represents over 377 contributions by 87 contributors to the main Hugo repo and hundreds of improvements to the libraries Hugo uses.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.14</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.14-relnotes/</link>
+      <pubDate>Tue, 26 May 2015 01:32:45 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.14-relnotes/</guid>
+      <description>The v0.14.0 Hugo release brings of the most demanded features to Hugo. The foundation of Hugo is stabilizing nicely and a lot of polish has been added. We’ve expanded support for additional content types with support for AsciiDoc, Restructured Text, HTML and Markdown. Some of these types depend on external libraries as there does not currently exist native support in Go. We’ve tried to make the experience as seamless as possible.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.13</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.13-relnotes/</link>
+      <pubDate>Sun, 22 Feb 2015 04:10:06 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.13-relnotes/</guid>
+      <description>The v0.13.0 release is the largest Hugo release to date. The release introduced some long sought after features (pagination, sequencing, data loading, tons of template improvements) as well as major internal improvements. In addition to the code changes, the Hugo community has grown significantly and now has over 3000 stars on GitHub, 134 contributors, 24 themes and 1000s of happy users.
+This release represents 448 contributions by 65 contributors</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.12</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.12-relnotes/</link>
+      <pubDate>Wed, 21 Jan 2015 20:35:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.12-relnotes/</guid>
+      <description>A lot has happened since Hugo v0.11.0 was released. Most of the work has been focused on polishing the theme engine and adding critical functionality to the templates.
+This release represents over 90 code commits from 28 different contributors.
+ 10 new themes created by the community fully themable partials 404 template support in themes shortcode support in themes views support in themes inner shortcode content now treated as markdown support for header ids in markdown (# header {#myid}) where template function to filter lists of content, taxonomies, etc groupby &amp;amp; groupbydate methods to group pages taxonomy pages list now sortable, filterable, limitable &amp;amp; groupable general cleanup to taxonomies &amp;amp; documentation to make it more clear and consistent showcase returned and has been expanded pretty links now always have trailing slashes baseurl can now include a subdirectory better feedback about draft &amp;amp; future post rendering a variety of improvements to the website  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.11</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.11-relnotes/</link>
+      <pubDate>Thu, 29 May 2014 22:53:22 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.11-relnotes/</guid>
+      <description> Considerably faster&amp;hellip; about 3 - 4x faster on average Live Reload. Hugo will automatically reload the browser when the build is complete Theme engine w/Theme Repository Menu system with support for active page Builders to quickly create a new site, content or theme XML sitemap generation Integrated Disqus support Streamlined template organization Brand new docs site Support for publishDate which allows for posts to be dated in the future More sort options Logging support Much better error handling More informative verbose output Renamed Indexes &amp;gt; Taxonomies Renamed Chrome &amp;gt; Partials  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.10</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.10-relnotes/</link>
+      <pubDate>Sat, 01 Mar 2014 17:21:33 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.10-relnotes/</guid>
+      <description>Syntax highlighting powered by pygments (slow) Ability to sort content many more ways Automatic table of contents generation Support for unicode URLs, aliases and indexes Configurable per-section permalink pattern support Support for paired shortcodes Shipping with some shortcodes (highlight &amp;amp; figure) Adding canonify option to keep URLs relative A bunch of additional template functions Watching very large sites now works on mac RSS generation improved. Limited to 50 items by default, can limit further in template Boolean params now supported in frontmatter Launched website showcase.</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.9</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.9-relnotes/</link>
+      <pubDate>Sat, 16 Nov 2013 04:52:32 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.9-relnotes/</guid>
+      <description>&lt;p&gt;This is the most significant update to Hugo ever!
+It contains contributions from dozens of contributors and represents hundreds of features, fixes and improvements.&lt;/p&gt;
+
+&lt;h1 id=&#34;major-new-features&#34;&gt;Major New Features&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;New command based interface similar to git (&lt;code&gt;hugo server -s ./&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Amber template support&lt;/li&gt;
+&lt;li&gt;Full Windows support&lt;/li&gt;
+&lt;li&gt;Better index support including ordering by content weight&lt;/li&gt;
+&lt;li&gt;Add params to site config, available in &lt;code&gt;.Site.Params&lt;/code&gt; from templates&lt;/li&gt;
+&lt;li&gt;Support for html &amp;amp; xml content (with front matter support)&lt;/li&gt;
+&lt;li&gt;Support for top level pages (in addition to homepage)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;notable-fixes-and-additions&#34;&gt;Notable Fixes and Additions&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Friendlier json support&lt;/li&gt;
+&lt;li&gt;Aliases (redirects)&lt;/li&gt;
+&lt;li&gt;Support for summary content divider (&lt;code&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.8</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.8-relnotes/</link>
+      <pubDate>Sat, 03 Aug 2013 15:26:04 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.8-relnotes/</guid>
+      <description>Please read the docs as a few options have changed in this release:
+ Added support for pretty URLs (filename/index.html vs filename.html) Hugo supports a destination directory Will efficiently sync content in static to destination directory Cleaned up options.. now with support for short and long options Added support for TOML Added support for YAML Added support for Previous &amp;amp; Next Added support for indexes for the indexes Better Windows compatibility Support for series Adding verbose output Loads of bugfixes  </description>
+    </item>
+    
+    <item>
+      <title>Hugo 0.7</title>
+      <link>levid-gc.github.io/hugoDocs/news/0.7-relnotes/</link>
+      <pubDate>Fri, 05 Jul 2013 04:22:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/news/0.7-relnotes/</guid>
+      <description>As the first public release here&amp;rsquo;s a bit about what Hugo can do so far:
+ 0.7.0 July 4, 2013  Hugo now includes a simple server First public release  0.6.0 July 2, 2013  Hugo includes an example documentation site which it builds  0.5.0 June 25, 2013  Hugo is quite usable and able to build spf13.com   </description>
+    </item>
+    
+  </channel>
+</rss>

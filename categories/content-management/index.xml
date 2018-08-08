@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Management on Hugo</title>
+    <link>levid-gc.github.io/hugoDocs/categories/content-management/</link>
+    <description>Recent content in Content Management on Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="levid-gc.github.io/hugoDocs/categories/content-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content Management</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/</guid>
+      <description>A static site generator needs to extend beyond front matter and a couple of templates to be both scalable and manageable. Hugo was designed with not only developers in mind, but also content managers and authors.</description>
+    </item>
+    
+    <item>
+      <title>Content Organization</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/organization/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/organization/</guid>
+      <description>Page Bundles Hugo 0.32 announced page-relative images and other resources packaged into Page Bundles.
+These terms are connected, and you also need to read about Page Resources and Image Processing to get the full picture.
+The illustration shows 3 bundles. Note that the home page bundle cannot contain other content pages, but other files (images etc.) are fine.
+ The bundle documentation is work in progress.</description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/syntax-highlighting/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/syntax-highlighting/</guid>
+      <description>From Hugo 0.28, the default syntax hightlighter in Hugo is Chroma; it is built in Go and is really, really fast &amp;ndash; and for the most important parts compatible with Pygments.
+If you want to continue to use Pygments (see below), set pygmentsUseClassic=true in your site config.
+The example below shows a simple code snippet from the Hugo source highlighted with the highlight shortcode. Note that the gohugo.io site is generated with pygmentsUseClasses=true (see Generate Syntax Highlighter CSS).</description>
+    </item>
+    
+    <item>
+      <title>Supported Content Formats</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/formats/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/formats/</guid>
+      <description>Markdown is the main content format and comes in two flavours: The excellent Blackfriday project (name your files *.md or set markup = &amp;quot;markdown&amp;quot; in front matter) or its fork Mmark (name your files *.mmark or set markup = &amp;quot;mmark&amp;quot; in front matter), both very fast markdown engines written in Go.
+For Emacs users, goorgeous provides built-in native support for Org-mode (name your files *.org or set markup = &amp;quot;org&amp;quot; in front matter)</description>
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/front-matter/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/front-matter/</guid>
+      <description>Front matter allows you to keep metadata attached to an instance of a content type&amp;mdash;i.e., embedded inside a content file&amp;mdash;and is one of the many features that gives Hugo its strength.
+  Front Matter Formats Hugo supports three formats for front matter, each with their own identifying tokens.
+ TOML identified by opening and closing +++. YAML identified by opening and closing ---. JSON a single JSON object surrounded by &amp;lsquo;{&amp;rsquo; and &amp;lsquo;}&amp;rsquo;, followed by a new line.</description>
+    </item>
+    
+    <item>
+      <title>Archetypes</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/archetypes/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/archetypes/</guid>
+      <description>What are Archetypes? Archetypes are content template files in the archetypes directory of your project that contain preconfigured front matter and possibly also a content disposition for your website&amp;rsquo;s content types. These will be used when you run hugo new.
+The hugo new uses the content-section to find the most suitable archetype template in your project. If your project does not contain any archetype files, it will also look in the theme.</description>
+    </item>
+    
+    <item>
+      <title>Content Sections</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/sections/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/sections/</guid>
+      <description>A Section is a collection of pages that gets defined based on the organization structure under the content/ directory.
+By default, all the first-level directories under content/ form their own sections (root sections).
+If a user needs to define a section foo at a deeper level, they need to create a directory named foo with an _index.md file (see Branch Bundles for more information).
+A section cannot be defined or overridden by a front matter parameter &amp;ndash; it is strictly derived from the content organization structure.</description>
+    </item>
+    
+    <item>
+      <title>Content Types</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/types/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/types/</guid>
+      <description>A content type can have a unique set of metadata (i.e., front matter) or customized template and can be created by the hugo new command via archetypes.
+What is a Content Type Tumblr is a good example of a website with multiple content types. A piece of &amp;ldquo;content&amp;rdquo; could be a photo, quote, or a post, each with different sets of metadata and different visual rendering.
+Assign a Content Type Hugo assumes that your site will be organized into sections and each section represents a corresponding type.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomies</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/taxonomies/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/taxonomies/</guid>
+      <description>What is a Taxonomy? Hugo includes support for user-defined groupings of content called taxonomies. Taxonomies are classifications of logical relationships between content.
+Definitions  Taxonomy a categorization that can be used to classify content Term a key within the taxonomy Value a piece of content assigned to a term    Example Taxonomy: Movie Website Let&amp;rsquo;s assume you are making a website about movies. You may want to include the following taxonomies:</description>
+    </item>
+    
+    <item>
+      <title>Content Summaries</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/summaries/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/summaries/</guid>
+      <description>With the use of the .Summary page variable, Hugo generates summaries of content to use as a short version in summary views.
+Summary Splitting Options  Hugo-defined Summary Split User-defined Summary Split  It is natural to accompany the summary with links to the original content, and a common design pattern is to see this link in the form of a &amp;ldquo;Read More &amp;hellip;&amp;rdquo; button. See the .RelPermalink, .Permalink, and .</description>
+    </item>
+    
+    <item>
+      <title>Links and Cross References</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/cross-references/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/cross-references/</guid>
+      <description>The ref and relref shortcode resolves the absolute or relative permalink given a path to a document.
+Use ref and relref {{&amp;lt;ref&amp;#34;document.md&amp;#34;&amp;gt;}} {{&amp;lt;ref&amp;#34;#anchor&amp;#34;&amp;gt;}} {{&amp;lt;ref&amp;#34;document.md#anchor&amp;#34;&amp;gt;}} {{&amp;lt;ref&amp;#34;/blog/my-post&amp;#34;&amp;gt;}} {{&amp;lt;ref&amp;#34;/blog/my-post.md&amp;#34;&amp;gt;}} {{&amp;lt;relref&amp;#34;document.md&amp;#34;&amp;gt;}} {{&amp;lt;relref&amp;#34;#anchor&amp;#34;&amp;gt;}} {{&amp;lt;relref&amp;#34;document.md#anchor&amp;#34;&amp;gt;}} The single parameter to ref is a string with a content documentname (e.g., about.md) with or without an appended in-document anchor (#who) without spaces. Hugo is flexible in how we search for documents, so the file suffix may be omitted.</description>
+    </item>
+    
+    <item>
+      <title>Menus</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/menus/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/menus/</guid>
+      <description>If all you want is a simple menu for your sections, see the &amp;ldquo;Section Menu for Lazy Bloggers&amp;rdquo; in Menu Templates.
+You can do this:
+ Place content in one or many menus Handle nested menus with unlimited depth Create menu entries without being attached to any content Distinguish active element (and active branch)  What is a Menu in Hugo? A menu is a named array of menu entries accessible by name via the .</description>
+    </item>
+    
+    <item>
+      <title>URL Management</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/urls/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/urls/</guid>
+      <description>Permalinks The default Hugo target directory for your built website is public/. However, you can change this value by specifying a different publishDir in your site configuration. The directories created at build time for a section reflect the position of the content&amp;rsquo;s directory within the content folder and namespace matching its layout within the contentdir hierarchy.
+The permalinks option in your site configuration allows you to adjust the directory paths (i.</description>
+    </item>
+    
+    <item>
+      <title>Static Files</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/static-files/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/static-files/</guid>
+      <description>By default, the static/ directory in the site project is used for all static files (e.g. stylesheets, JavaScript, images).
+Hugo can be configured to look into a different directory, or even multiple directories for such static files by configuring the staticDir parameter in the site config. All the files in all the static directories will form a union filesystem.
+This union filesystem will be served from your site root. So a file &amp;lt;SITE PROJECT&amp;gt;/static/me.</description>
+    </item>
+    
+    <item>
+      <title>Table of Contents</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/toc/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/toc/</guid>
+      <description>Currently, the {{.TableOfContents}} page variable does not allow you to specify which heading levels you want the TOC to render. See the related GitHub discussion (#1778). As such, the resulting &amp;lt;nav id=&amp;quot;TableOfContents&amp;quot;&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/nav&amp;gt; is going to start at &amp;lt;h1&amp;gt; when pulling from {{.Content}}.
+Usage Create your markdown the way you normally would with the appropriate headings. Here is some example content:
+&amp;lt;!-- Your front matter up here --&amp;gt; ## Introduction One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</description>
+    </item>
+    
+    <item>
+      <title>Multilingual Mode</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/multilingual/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/multilingual/</guid>
+      <description>You should define the available languages in a languages section in your site configuration.
+Configure Languages The following is an example of a site configuration for a multilingual Hugo project:
+config.yaml&amp;nbsp;toml&amp;nbsp;json&amp;nbsp;DefaultContentLanguage:encopyright:Everythingisminelanguages:en:params:linkedin:https://linkedin.com/whoevertitle:Myblogweight:1fr:params:linkedin:https://linkedin.com/fr/whoevernavigation:help:Aidetitle:Monblogueweight:2params:navigation:help:HelpDefaultContentLanguage = &amp;#34;en&amp;#34; copyright = &amp;#34;Everything is mine&amp;#34; [languages] [languages.en] title = &amp;#34;My blog&amp;#34; weight = 1 [languages.en.params] linkedin = &amp;#34;https://linkedin.com/whoever&amp;#34; [languages.fr] title = &amp;#34;Mon blogue&amp;#34; weight = 2 [languages.fr.params] linkedin = &amp;#34;https://linkedin.</description>
+    </item>
+    
+    <item>
+      <title>Page Resources</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/page-resources/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/page-resources/</guid>
+      <description>Properties  ResourceType The main type of the resource. For example, a file of MIME type image/jpg has for ResourceType image. Name Default value is the filename (relative to the owning page). Can be set in front matter. Title Default blank. Can be set in front matter. Permalink The absolute URL to the resource. Resources of type page will have no value. RelPermalink The relative URL to the resource. Resources of type page will have no value.</description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/image-processing/</link>
+      <pubDate>Wed, 24 Jan 2018 13:10:00 -0500</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/image-processing/</guid>
+      <description>The Image Page Resource The image is a Page Resource, and the processing methods listed below does not work on images inside your /static folder.
+To get all images in a Page Bundle:
+{{with.Resources.ByType&amp;#34;image&amp;#34;}} {{end}} Image Processing Methods The image resource implements the methods Resize, Fit and Fill, each returning the transformed image using the specified dimensions and processing options.
+ Resize Resizes the image to the specified width and height.</description>
+    </item>
+    
+    <item>
+      <title>Page Bundles</title>
+      <link>levid-gc.github.io/hugoDocs/content-management/page-bundles/</link>
+      <pubDate>Wed, 24 Jan 2018 13:09:00 -0500</pubDate>
+      
+      <guid>levid-gc.github.io/hugoDocs/content-management/page-bundles/</guid>
+      <description>Page Bundles are a way to group Page Resources.
+A Page Bundle can be one of:
+ Leaf Bundle (leaf means it has no children) Branch Bundle (home page, section, taxonomy terms, taxonomy list)      Leaf Bundle Branch Bundle     Usage Collection of content and attachments for single pages Collection of attachments for section pages (home page, section, taxonomy terms, taxonomy list)   Index file name index.</description>
+    </item>
+    
+  </channel>
+</rss>
